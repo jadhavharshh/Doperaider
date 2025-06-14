@@ -1,0 +1,765 @@
+.doperaider-RAID {
+  background-color: #ffffff;
+  height: 852px;
+  overflow: hidden;
+  position: relative;
+  width: 393px;
+}
+
+.doperaider-RAID .overlap-46 {
+  height: 944px;
+  left: -277px;
+  position: absolute;
+  top: -78px;
+  width: 906px;
+}
+
+.doperaider-RAID .BG-2 {
+  height: 944px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 906px;
+}
+
+.doperaider-RAID .overlap-group-27 {
+  height: 944px;
+  position: relative;
+}
+
+.doperaider-RAID .image {
+  height: 852px;
+  left: 277px;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: 393px;
+}
+
+.doperaider-RAID .rectangle-12 {
+  background-color: #0000004c;
+  height: 874px;
+  left: 262px;
+  position: absolute;
+  top: 70px;
+  width: 426px;
+}
+
+.doperaider-RAID .ellipse-29 {
+  background-color: #ffffff;
+  border-radius: 114.5px/216.5px;
+  filter: blur(27px);
+  height: 433px;
+  left: 359px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 289px;
+  width: 229px;
+}
+
+.doperaider-RAID .ellipse-30 {
+  background-color: #ffffff;
+  border-radius: 58.5px/166.5px;
+  filter: blur(27px);
+  height: 333px;
+  left: 306px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 202px;
+  width: 117px;
+}
+
+.doperaider-RAID .ellipse-31 {
+  background-color: #ffffff;
+  border-radius: 63.5px/216.5px;
+  filter: blur(27px);
+  height: 433px;
+  left: 505px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 168px;
+  width: 127px;
+}
+
+.doperaider-RAID .ellipse-32 {
+  background-color: #000000;
+  border-radius: 203.24px/453.09px;
+  filter: blur(27px);
+  height: 906px;
+  left: 250px;
+  mix-blend-mode: soft-light;
+  opacity: 0.3;
+  position: absolute;
+  top: -250px;
+  transform: rotate(90deg);
+  width: 406px;
+}
+
+.doperaider-RAID .ellipse-33 {
+  background-color: #000000;
+  border-radius: 125px/279px;
+  filter: blur(27px);
+  height: 558px;
+  left: 338px;
+  mix-blend-mode: soft-light;
+  opacity: 0.6;
+  position: absolute;
+  top: -145px;
+  transform: rotate(90deg);
+  width: 250px;
+}
+
+.doperaider-RAID .PROFILE-PIC-NAME {
+  height: 160px;
+  left: 410px;
+  position: absolute;
+  top: 214px;
+  width: 128px;
+}
+
+.doperaider-RAID .overlap-47 {
+  height: 160px;
+  position: relative;
+}
+
+.doperaider-RAID .profile-pic-27 {
+  background-color: #2f2f2f;
+  border-radius: 160px;
+  box-shadow: 0px 4px 8px #0000001a, 0px 14px 14px #00000017, 0px 32px 19px #0000000d, 0px 56px 23px #00000003,
+    0px 88px 25px transparent;
+  height: 128px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.doperaider-RAID .telegram-peer-photo-4 {
+  height: 128px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.doperaider-RAID .name-tag {
+  height: 42px;
+  left: 7px;
+  position: absolute;
+  top: 118px;
+  width: 112px;
+}
+
+.doperaider-RAID .overlap-group-28 {
+  background-image: url(../../../static/img/name-tag.svg);
+  background-size: 100% 100%;
+  height: 42px;
+  left: -50px;
+  position: relative;
+  width: 212px;
+}
+
+.doperaider-RAID .frame-68 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  height: 34px;
+  left: 20px;
+  position: relative;
+  top: 4px;
+}
+
+.doperaider-RAID .ellipse-34 {
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.doperaider-RAID .text-wrapper-144 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.doperaider-RAID .frame-69 {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  left: 392px;
+  position: absolute;
+  top: 385px;
+}
+
+.doperaider-RAID .respect-11 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(10, 10, 40, 1) 0%, rgba(73, 73, 127, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  height: 32px;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+}
+
+.doperaider-RAID .respect-11::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID .icon-67 {
+  background-image: url(../../../static/img/9athga-14.png);
+  background-size: 100% 100%;
+  height: 14px;
+  position: relative;
+  width: 11px;
+}
+
+.doperaider-RAID .text-wrapper-145 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.doperaider-RAID .coke-11 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(137, 146, 165, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  height: 32px;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+}
+
+.doperaider-RAID .coke-11::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID .icon-68 {
+  background-image: url(../../../static/img/vector-3.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  width: 13px;
+}
+
+.doperaider-RAID .weed-13 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(16, 52, 29, 1) 0%, rgba(49, 137, 82, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  height: 32px;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+}
+
+.doperaider-RAID .weed-13::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID .icon-69 {
+  background-image: url(../../../static/img/vector-4.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  width: 14px;
+}
+
+.doperaider-RAID .PROFILE-PIC-NAME-2 {
+  height: 160px;
+  left: 410px;
+  position: absolute;
+  top: 598px;
+  width: 128px;
+}
+
+.doperaider-RAID .profile-pic-28 {
+  background-image: url(../../../static/img/telegram-peer-photo-size-4-2140046577575765933-1-0-0-11.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 160px;
+  box-shadow: 0px 4px 8px #0000001a, 0px 14px 14px #00000017, 0px 32px 19px #0000000d, 0px 56px 23px #00000003,
+    0px 88px 25px transparent;
+  height: 128px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.doperaider-RAID .name-tag-2 {
+  background-image: url(../../../static/img/organic-grunge-bold-shapes-2.svg);
+  background-size: 100% 100%;
+  height: 42px;
+  left: 7px;
+  position: absolute;
+  top: 118px;
+  width: 112px;
+}
+
+.doperaider-RAID .text-wrapper-146 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID .frame-70 {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  left: 392px;
+  position: absolute;
+  top: 769px;
+}
+
+.doperaider-RAID .icon-70 {
+  background-image: url(../../../static/img/vector-5.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  width: 13px;
+}
+
+.doperaider-RAID .icon-71 {
+  background-image: url(../../../static/img/vector-6.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  width: 14px;
+}
+
+.doperaider-RAID .stats-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  left: 328px;
+  position: absolute;
+  top: 610px;
+}
+
+.doperaider-RAID .respect-12 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(10, 10, 40, 1) 0%, rgba(73, 73, 127, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  display: flex;
+  gap: 4px;
+  height: 32px;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+  width: 67px;
+}
+
+.doperaider-RAID .respect-12::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID .coke-12 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(137, 146, 165, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  display: flex;
+  gap: 4px;
+  height: 32px;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+  width: 67px;
+}
+
+.doperaider-RAID .coke-12::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID .icon-72 {
+  background-image: url(../../../static/img/vector-7.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  width: 13px;
+}
+
+.doperaider-RAID .weed-14 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(16, 52, 29, 1) 0%, rgba(49, 137, 82, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  display: flex;
+  gap: 4px;
+  height: 32px;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+  width: 68px;
+}
+
+.doperaider-RAID .weed-14::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID .icon-73 {
+  background-image: url(../../../static/img/vector-8.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  width: 14px;
+}
+
+.doperaider-RAID .frame-71 {
+  background-image: url(../../../static/img/organic-grunge-bold-shapes-3.svg);
+  background-size: 100% 100%;
+  height: 42px;
+  left: 425px;
+  position: absolute;
+  top: 179px;
+  width: 98px;
+}
+
+.doperaider-RAID .text-wrapper-147 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID .frame-72 {
+  background-image: url(../../../static/img/organic-grunge-bold-shapes-4.svg);
+  background-size: 100% 100%;
+  height: 42px;
+  left: 425px;
+  position: absolute;
+  top: 563px;
+  width: 98px;
+}
+
+.doperaider-RAID .text-wrapper-148 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID .group-9 {
+  height: 93px;
+  left: 341px;
+  position: absolute;
+  top: 443px;
+  width: 272px;
+}
+
+.doperaider-RAID .overlap-48 {
+  background-image: url(../../../static/img/organic-grunge-bold-shapes-5.svg);
+  background-size: 100% 100%;
+  height: 99px;
+  left: -3px;
+  position: relative;
+  top: -3px;
+  width: 274px;
+}
+
+.doperaider-RAID .text-wrapper-149 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(141deg, rgba(255, 220, 165, 1) 0%, rgba(214, 183, 134, 1) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Bangers", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID .text-wrapper-150 {
+  color: #bbf88e;
+  font-family: "Bangers", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 101px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID .WEAPON {
+  height: 95px;
+  left: 326px;
+  position: absolute;
+  top: 230px;
+  transform: rotate(-15deg);
+  width: 92px;
+}
+
+.doperaider-RAID .overlap-49 {
+  height: 149px;
+  left: -29px;
+  position: relative;
+  top: -23px;
+  width: 147px;
+}
+
+.doperaider-RAID .rectangle-13 {
+  height: 122px;
+  left: 14px;
+  position: absolute;
+  top: 13px;
+  transform: rotate(15deg);
+  width: 120px;
+}
+
+.doperaider-RAID .rectangle-14 {
+  height: 102px;
+  left: 25px;
+  position: absolute;
+  top: 20px;
+  transform: rotate(15deg);
+  width: 99px;
+}
+
+.doperaider-RAID .mask-group-3 {
+  height: 116px;
+  left: 18px;
+  position: absolute;
+  top: 13px;
+  transform: rotate(15deg);
+  width: 113px;
+}
+
+.doperaider-RAID .pistol {
+  height: 103px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  transform: rotate(15deg);
+  width: 100px;
+}
+
+.doperaider-RAID .WEAPON-2 {
+  display: block;
+  height: 95px;
+  left: 530px;
+  position: absolute;
+  top: 615px;
+  transform: rotate(15deg);
+  width: 92px;
+}
+
+.doperaider-RAID .overlap-50 {
+  height: 149px;
+  left: -27px;
+  position: relative;
+  top: -23px;
+  width: 147px;
+}
+
+.doperaider-RAID .rectangle-15 {
+  height: 122px;
+  left: 14px;
+  position: absolute;
+  top: 13px;
+  transform: rotate(-15deg);
+  width: 120px;
+}
+
+.doperaider-RAID .rectangle-16 {
+  height: 102px;
+  left: 23px;
+  position: absolute;
+  top: 20px;
+  transform: rotate(-15deg);
+  width: 99px;
+}
+
+.doperaider-RAID .mask-group-4 {
+  height: 116px;
+  left: 16px;
+  position: absolute;
+  top: 13px;
+  transform: rotate(-15deg);
+  width: 113px;
+}
+
+.doperaider-RAID .pistol-2 {
+  height: 103px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  transform: rotate(-15deg);
+  width: 100px;
+}
+
+.doperaider-RAID .text-wrapper-151 {
+  color: #ffffff;
+  display: block;
+  font-family: "Bangers", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 405px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 832px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID .stats-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  left: 275px;
+  position: fixed;
+  top: 148px;
+}
+
+.doperaider-RAID .icon-74 {
+  background-image: url(../../../static/img/vector-9.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  width: 13px;
+}
+
+.doperaider-RAID .icon-75 {
+  background-image: url(../../../static/img/vector-10.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  width: 14px;
+}
+
+.doperaider-RAID .text-wrapper-152 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 140px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+  position: fixed;
+  text-align: center;
+  top: 58px;
+  white-space: nowrap;
+}

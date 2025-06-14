@@ -1,0 +1,1226 @@
+{
+  "nodes": [
+    {
+      "id": "src/screens/DoperaiderMap/DoperaiderMap.tsx",
+      "label": "DoperaiderMap",
+      "routes": [
+        "/*",
+        "/doperaider-u8212-map"
+      ],
+      "dataModelId": "412:3173",
+      "isRoot": true
+    },
+    {
+      "id": "src/screens/DoperaiderIntro/DoperaiderIntro.tsx",
+      "label": "DoperaiderIntro",
+      "routes": [
+        "/"
+      ],
+      "dataModelId": "2004:1966",
+      "isRoot": true
+    },
+    {
+      "id": "src/screens/DoperaiderMapScreen/DoperaiderMapScreen.tsx",
+      "label": "DoperaiderMapScreen",
+      "routes": [
+        "/doperaider-u8212-map-u8211-chinatown-selected"
+      ],
+      "dataModelId": "412:3351"
+    },
+    {
+      "id": "src/screens/DoperaiderMarket/DoperaiderMarket.tsx",
+      "label": "DoperaiderMarket",
+      "routes": [
+        "/doperaider-u8212-market-u8212-trade-popup"
+      ],
+      "dataModelId": "412:2802"
+    },
+    {
+      "id": "src/screens/Doperaider/Doperaider.tsx",
+      "label": "Doperaider",
+      "routes": [
+        "/doperaider-u8212-production-u8212-weed-active"
+      ],
+      "dataModelId": "412:3065"
+    },
+    {
+      "id": "src/screens/DoperaiderScreen/DoperaiderScreen.tsx",
+      "label": "DoperaiderScreen",
+      "routes": [
+        "/doperaider-u8212-production"
+      ],
+      "dataModelId": "412:2986"
+    },
+    {
+      "id": "src/screens/DoperaiderMarketScreen/DoperaiderMarketScreen.tsx",
+      "label": "DoperaiderMarketScreen",
+      "routes": [
+        "/doperaider-u8212-market"
+      ],
+      "dataModelId": "412:2671"
+    },
+    {
+      "id": "src/screens/DoperaiderYou/DoperaiderYou.tsx",
+      "label": "DoperaiderYou",
+      "routes": [
+        "/doperaider-u8212-you-u8212-trophies"
+      ],
+      "dataModelId": "412:2054"
+    },
+    {
+      "id": "src/screens/DoperaiderYouScreen/DoperaiderYouScreen.tsx",
+      "label": "DoperaiderYouScreen",
+      "routes": [
+        "/doperaider-u8212-you-u8212-inventory"
+      ],
+      "dataModelId": "412:1574"
+    },
+    {
+      "id": "src/screens/DoperaiderYouWrapper/DoperaiderYouWrapper.tsx",
+      "label": "DoperaiderYouWrapper",
+      "routes": [
+        "/doperaider-u8212-you-u8212-upgrades"
+      ],
+      "dataModelId": "464:2262"
+    },
+    {
+      "id": "src/screens/Screen9 copy/Screen9.tsx",
+      "label": "Screen9",
+      "routes": [
+        "/doperaider-u8212-you-u8212-upgrades2",
+        "/doperaider-u8212-raid"
+      ],
+      "dataModelId": "412:3605"
+    },
+    {
+      "id": "src/screens/DoperaiderRaidScreen/DoperaiderRaidScreen.tsx",
+      "label": "DoperaiderRaidScreen",
+      "routes": [
+        "/doperaider-u8212-raid-u8212-active-raid"
+      ],
+      "dataModelId": "412:4883"
+    },
+    {
+      "id": "src/screens/DoperaiderRaid/DoperaiderRaid.tsx",
+      "label": "DoperaiderRaid",
+      "routes": [
+        "/doperaider-u8212-raid-u8212-active-raid-u8212-win"
+      ],
+      "dataModelId": "412:5097"
+    },
+    {
+      "id": "src/screens/Screen8/Screen8.tsx",
+      "label": "Screen8",
+      "routes": [
+        "/doperaider-u8212-raid-u8212-selected-player"
+      ],
+      "dataModelId": "412:3986"
+    },
+    {
+      "id": "src/screens/DoperaiderRaidWrapper/DoperaiderRaidWrapper.tsx",
+      "label": "DoperaiderRaidWrapper",
+      "routes": [
+        "/doperaider-u8212-raid-u8212-selected-player-u8212-protected"
+      ],
+      "dataModelId": "412:4429"
+    },
+    {
+      "id": "src/screens/DoperaiderAirdrop/DoperaiderAirdrop.tsx",
+      "label": "DoperaiderAirdrop",
+      "routes": [
+        "/doperaider-u8212-airdrop"
+      ],
+      "dataModelId": "2005:1467"
+    }
+  ],
+  "edges": [
+    {
+      "id": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx:271:8-to-src\\screens\\DoperaiderMapScreen\\DoperaiderMapScreen.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderMapScreen\\DoperaiderMapScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-map-u8211-chinatown-selected",
+        "trigger": {
+          "element": "<Link\n          className=\"PIN-10\"\n          to=\"/doperaider-u8212-map-u8211-chinatown-selected\"\n        >\n          <div className=\"overlap-47\">\n            <div className=\"ellipse-29\" />\n\n            <img\n              className=\"subtract-6\"\n              alt=\"Subtract\"\n              src=\"/img/subtract-6.svg\"\n            />\n\n            <img\n              className=\"organic-grunge-bold-15\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-12.svg\"\n            />\n\n            <img\n              className=\"organic-grunge-bold-16\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-13.svg\"\n            />\n\n            <div className=\"text-wrapper-251\">CHINATOWN</div>\n\n            <div className=\"element-20\">\n              <div className=\"overlap-group-37\">\n                <img className=\"group-22\" alt=\"Group\" src=\"/img/group-4.png\" />\n              </div>\n            </div>\n          </div>\n        </Link>",
+          "line": 271,
+          "endLine": 304,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:32:10-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-you-u8212-inventory\">\n            <div className=\"text-wrapper-236\">YOU</div>\n\n            <img className=\"icon-109\" alt=\"Icon\" src={icon} />\n          </Link>",
+          "line": 32,
+          "endLine": 36,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:38:10-to-src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-market",
+        "trigger": {
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-market\">\n            <div className=\"text-wrapper-237\">MARKET</div>\n\n            <div className=\"icon-110\">\n              <img className=\"layer-33\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\n            </div>\n          </Link>",
+          "line": 38,
+          "endLine": 44,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:46:10-to-src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-production",
+        "trigger": {
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-production\">\n            <div className=\"text-wrapper-238\">PRODUCE</div>\n\n            <div className=\"icon-111\">\n              <img className=\"layer-34\" alt=\"Layer\" src={layer} />\n            </div>\n          </Link>",
+          "line": 46,
+          "endLine": 52,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:54:10-to-src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-map",
+        "trigger": {
+          "element": "<Link className=\"MAP\" to=\"/doperaider-u8212-map\">\n            <div className=\"text-wrapper-239\">MAP</div>\n\n            <img className=\"icon-109\" alt=\"Icon\" src={img} />\n          </Link>",
+          "line": 54,
+          "endLine": 58,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderIntro\\DoperaiderIntro.tsx:25:8-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderIntro\\DoperaiderIntro.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link className=\"trade-3\" to=\"/doperaider-u8212-you-u8212-inventory\">\n          <div className=\"text-wrapper-32\">PLAY GAME</div>\n        </Link>",
+          "line": 25,
+          "endLine": 27,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderIntro\\DoperaiderIntro.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:32:10-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-you-u8212-inventory\">\n            <div className=\"text-wrapper-236\">YOU</div>\n\n            <img className=\"icon-109\" alt=\"Icon\" src={icon} />\n          </Link>",
+          "line": 32,
+          "endLine": 36,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:38:10-to-src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-market",
+        "trigger": {
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-market\">\n            <div className=\"text-wrapper-237\">MARKET</div>\n\n            <div className=\"icon-110\">\n              <img className=\"layer-33\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\n            </div>\n          </Link>",
+          "line": 38,
+          "endLine": 44,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:46:10-to-src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-production",
+        "trigger": {
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-production\">\n            <div className=\"text-wrapper-238\">PRODUCE</div>\n\n            <div className=\"icon-111\">\n              <img className=\"layer-34\" alt=\"Layer\" src={layer} />\n            </div>\n          </Link>",
+          "line": 46,
+          "endLine": 52,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:54:10-to-src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-map",
+        "trigger": {
+          "element": "<Link className=\"MAP\" to=\"/doperaider-u8212-map\">\n            <div className=\"text-wrapper-239\">MAP</div>\n\n            <img className=\"icon-109\" alt=\"Icon\" src={img} />\n          </Link>",
+          "line": 54,
+          "endLine": 58,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderMapScreen\\sections\\Popup\\Popup.tsx:104:8-to-src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "source": "src\\screens\\DoperaiderMapScreen\\DoperaiderMapScreen.tsx",
+      "target": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-map",
+        "trigger": {
+          "element": "<Link className=\"notif-icon-2\" to=\"/doperaider-u8212-map\">\n          <img className=\"union-2\" alt=\"Union\" src=\"/img/union-4.svg\" />\n        </Link>",
+          "line": 104,
+          "endLine": 106,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderMapScreen\\sections\\Popup\\Popup.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderMarket\\sections\\BottomNavWrapper\\BottomNavWrapper.tsx:65:12-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderMarket\\DoperaiderMarket.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link className=\"div-4\" to=\"/doperaider-u8212-you-u8212-inventory\">\n              <div className=\"text-wrapper-31\">YOU</div>\n\n              <img className=\"icon-11\" alt=\"Icon\" src=\"/img/icon-19.svg\" />\n            </Link>",
+          "line": 65,
+          "endLine": 69,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderMarket\\sections\\BottomNavWrapper\\BottomNavWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderMarket\\sections\\BottomNavWrapper\\BottomNavWrapper.tsx:71:12-to-src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "source": "src\\screens\\DoperaiderMarket\\DoperaiderMarket.tsx",
+      "target": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-market",
+        "trigger": {
+          "element": "<Link className=\"MARKET\" to=\"/doperaider-u8212-market\">\n              <div className=\"text-wrapper-32\">MARKET</div>\n\n              <div className=\"icon-12\">\n                <div className=\"layer-4\">\n                  <img className=\"union-3\" alt=\"Union\" src=\"/img/union-5.svg\" />\n                </div>\n              </div>\n            </Link>",
+          "line": 71,
+          "endLine": 79,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderMarket\\sections\\BottomNavWrapper\\BottomNavWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderMarket\\sections\\BottomNavWrapper\\BottomNavWrapper.tsx:81:12-to-src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "source": "src\\screens\\DoperaiderMarket\\DoperaiderMarket.tsx",
+      "target": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-production",
+        "trigger": {
+          "element": "<Link className=\"div-4\" to=\"/doperaider-u8212-production\">\n              <div className=\"text-wrapper-33\">PRODUCE</div>\n\n              <div className=\"icon-13\">\n                <img className=\"layer-5\" alt=\"Layer\" src=\"/img/layer-1-7.svg\" />\n              </div>\n            </Link>",
+          "line": 81,
+          "endLine": 87,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderMarket\\sections\\BottomNavWrapper\\BottomNavWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderMarket\\sections\\BottomNavWrapper\\BottomNavWrapper.tsx:89:12-to-src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "source": "src\\screens\\DoperaiderMarket\\DoperaiderMarket.tsx",
+      "target": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-map",
+        "trigger": {
+          "element": "<Link className=\"div-4\" to=\"/doperaider-u8212-map\">\n              <div className=\"text-wrapper-34\">MAP</div>\n\n              <img className=\"icon-11\" alt=\"Icon\" src=\"/img/icon-20.svg\" />\n            </Link>",
+          "line": 89,
+          "endLine": 93,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderMarket\\sections\\BottomNavWrapper\\BottomNavWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderMarket\\sections\\Notifications\\Notifications.tsx:83:8-to-src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "source": "src\\screens\\DoperaiderMarket\\DoperaiderMarket.tsx",
+      "target": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-market",
+        "trigger": {
+          "element": "<Link className=\"CLOSE-ICON\" to=\"/doperaider-u8212-market\">\n          <img className=\"union-5\" alt=\"Union\" src=\"/img/union-4.svg\" />\n        </Link>",
+          "line": 83,
+          "endLine": 85,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderMarket\\sections\\Notifications\\Notifications.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Doperaider\\sections\\DivWrapper\\DivWrapper.tsx:65:12-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\Doperaider\\Doperaider.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link className=\"div-6\" to=\"/doperaider-u8212-you-u8212-inventory\">\n              <div className=\"text-wrapper-57\">YOU</div>\n\n              <img className=\"icon-23\" alt=\"Icon\" src=\"/img/icon-25.svg\" />\n            </Link>",
+          "line": 65,
+          "endLine": 69,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\Doperaider\\sections\\DivWrapper\\DivWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Doperaider\\sections\\DivWrapper\\DivWrapper.tsx:71:12-to-src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "source": "src\\screens\\Doperaider\\Doperaider.tsx",
+      "target": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-market",
+        "trigger": {
+          "element": "<Link className=\"div-6\" to=\"/doperaider-u8212-market\">\n              <div className=\"text-wrapper-58\">MARKET</div>\n\n              <div className=\"icon-24\">\n                <img className=\"layer-8\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\n              </div>\n            </Link>",
+          "line": 71,
+          "endLine": 77,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\Doperaider\\sections\\DivWrapper\\DivWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Doperaider\\sections\\DivWrapper\\DivWrapper.tsx:79:12-to-src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "source": "src\\screens\\Doperaider\\Doperaider.tsx",
+      "target": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-production",
+        "trigger": {
+          "element": "<Link className=\"PRODUCE\" to=\"/doperaider-u8212-production\">\n              <div className=\"text-wrapper-59\">PRODUCE</div>\n\n              <div className=\"icon-25\">\n                <img className=\"layer-9\" alt=\"Layer\" src=\"/img/layer-1-9.svg\" />\n              </div>\n            </Link>",
+          "line": 79,
+          "endLine": 85,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\Doperaider\\sections\\DivWrapper\\DivWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Doperaider\\sections\\DivWrapper\\DivWrapper.tsx:87:12-to-src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "source": "src\\screens\\Doperaider\\Doperaider.tsx",
+      "target": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-map",
+        "trigger": {
+          "element": "<Link className=\"div-6\" to=\"/doperaider-u8212-map\">\n              <div className=\"text-wrapper-60\">MAP</div>\n\n              <img className=\"icon-23\" alt=\"Icon\" src=\"/img/icon-26.svg\" />\n            </Link>",
+          "line": 87,
+          "endLine": 91,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\Doperaider\\sections\\DivWrapper\\DivWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Doperaider\\sections\\MarketPrices\\MarketPrices.tsx:82:6-to-src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "source": "src\\screens\\Doperaider\\Doperaider.tsx",
+      "target": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-production",
+        "trigger": {
+          "element": "<Link className=\"trade-9\" to=\"/doperaider-u8212-production\">\n        <div className=\"group-4\">\n          <div className=\"overlap-group-9\">\n            <img\n              className=\"mask-group-4\"\n              alt=\"Mask group\"\n              src=\"/img/mask-group-7.png\"\n            />\n\n            <img\n              className=\"mask-group-5\"\n              alt=\"Mask group\"\n              src=\"/img/mask-group-8.png\"\n            />\n          </div>\n        </div>\n\n        <div className=\"text-wrapper-64\">2min 12secs</div>\n      </Link>",
+          "line": 82,
+          "endLine": 100,
+          "column": 6,
+          "endColumn": 13,
+          "sourceFile": "src\\screens\\Doperaider\\sections\\MarketPrices\\MarketPrices.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderScreen\\sections\\Div\\Div.tsx:65:12-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link\n              className=\"class-2\"\n              to=\"/doperaider-u8212-you-u8212-inventory\"\n            >\n              <div className=\"text-wrapper-74\">YOU</div>\n\n              <img className=\"icon-36\" alt=\"Icon\" src=\"/img/icon-31.svg\" />\n            </Link>",
+          "line": 65,
+          "endLine": 72,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderScreen\\sections\\Div\\Div.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderScreen\\sections\\Div\\Div.tsx:74:12-to-src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "source": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "target": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-market",
+        "trigger": {
+          "element": "<Link className=\"class-2\" to=\"/doperaider-u8212-market\">\n              <div className=\"text-wrapper-75\">MARKET</div>\n\n              <div className=\"icon-37\">\n                <img className=\"layer-11\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\n              </div>\n            </Link>",
+          "line": 74,
+          "endLine": 80,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderScreen\\sections\\Div\\Div.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderScreen\\sections\\Div\\Div.tsx:82:12-to-src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "source": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "target": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-production",
+        "trigger": {
+          "element": "<Link className=\"PRODUCE-2\" to=\"/doperaider-u8212-production\">\n              <div className=\"text-wrapper-76\">PRODUCE</div>\n\n              <div className=\"icon-38\">\n                <img\n                  className=\"layer-12\"\n                  alt=\"Layer\"\n                  src=\"/img/layer-1-11.svg\"\n                />\n              </div>\n            </Link>",
+          "line": 82,
+          "endLine": 92,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderScreen\\sections\\Div\\Div.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderScreen\\sections\\Div\\Div.tsx:94:12-to-src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "source": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "target": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-map",
+        "trigger": {
+          "element": "<Link className=\"class-2\" to=\"/doperaider-u8212-map\">\n              <div className=\"text-wrapper-77\">MAP</div>\n\n              <img className=\"icon-36\" alt=\"Icon\" src=\"/img/icon-32.svg\" />\n            </Link>",
+          "line": 94,
+          "endLine": 98,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderScreen\\sections\\Div\\Div.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderScreen\\sections\\SectionComponentNode\\SectionComponentNode.tsx:48:6-to-src\\screens\\Doperaider\\Doperaider.tsx",
+      "source": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "target": "src\\screens\\Doperaider\\Doperaider.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-production-u8212-weed-active",
+        "trigger": {
+          "element": "<Link\n        className=\"trade-11\"\n        to=\"/doperaider-u8212-production-u8212-weed-active\"\n      >\n        <div className=\"text-wrapper-83\">GROW</div>\n      </Link>",
+          "line": 48,
+          "endLine": 53,
+          "column": 6,
+          "endColumn": 13,
+          "sourceFile": "src\\screens\\DoperaiderScreen\\sections\\SectionComponentNode\\SectionComponentNode.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderMarketScreen\\sections\\BottomNav1\\BottomNav1.tsx:65:12-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link className=\"div-9\" to=\"/doperaider-u8212-you-u8212-inventory\">\n              <div className=\"text-wrapper-96\">YOU</div>\n\n              <img className=\"icon-49\" alt=\"Icon\" src=\"/img/icon-38.svg\" />\n            </Link>",
+          "line": 65,
+          "endLine": 69,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderMarketScreen\\sections\\BottomNav1\\BottomNav1.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderMarketScreen\\sections\\BottomNav1\\BottomNav1.tsx:71:12-to-src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "source": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "target": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-market",
+        "trigger": {
+          "element": "<Link className=\"MARKET-2\" to=\"/doperaider-u8212-market\">\n              <div className=\"text-wrapper-97\">MARKET</div>\n\n              <div className=\"icon-50\">\n                <div className=\"layer-15\">\n                  <img className=\"union-6\" alt=\"Union\" src=\"/img/union-5.svg\" />\n                </div>\n              </div>\n            </Link>",
+          "line": 71,
+          "endLine": 79,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderMarketScreen\\sections\\BottomNav1\\BottomNav1.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderMarketScreen\\sections\\BottomNav1\\BottomNav1.tsx:81:12-to-src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "source": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "target": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-production",
+        "trigger": {
+          "element": "<Link className=\"div-9\" to=\"/doperaider-u8212-production\">\n              <div className=\"text-wrapper-98\">PRODUCE</div>\n\n              <div className=\"icon-51\">\n                <img\n                  className=\"layer-16\"\n                  alt=\"Layer\"\n                  src=\"/img/layer-1-13.svg\"\n                />\n              </div>\n            </Link>",
+          "line": 81,
+          "endLine": 91,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderMarketScreen\\sections\\BottomNav1\\BottomNav1.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderMarketScreen\\sections\\BottomNav1\\BottomNav1.tsx:93:12-to-src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "source": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "target": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-map",
+        "trigger": {
+          "element": "<Link className=\"div-9\" to=\"/doperaider-u8212-map\">\n              <div className=\"text-wrapper-99\">MAP</div>\n\n              <img className=\"icon-49\" alt=\"Icon\" src=\"/img/icon-39.svg\" />\n            </Link>",
+          "line": 93,
+          "endLine": 97,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderMarketScreen\\sections\\BottomNav1\\BottomNav1.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderMarketScreen\\sections\\MarketPrices2\\MarketPrices2.tsx:29:8-to-src\\screens\\DoperaiderMarket\\DoperaiderMarket.tsx",
+      "source": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "target": "src\\screens\\DoperaiderMarket\\DoperaiderMarket.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-market-u8212-trade-popup",
+        "trigger": {
+          "element": "<Link\n          className=\"trade-13\"\n          to=\"/doperaider-u8212-market-u8212-trade-popup\"\n        >\n          <div className=\"text-wrapper-113\">TRADE</div>\n        </Link>",
+          "line": 29,
+          "endLine": 34,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderMarketScreen\\sections\\MarketPrices2\\MarketPrices2.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYou\\sections\\BottomNav2\\BottomNav2.tsx:65:12-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link className=\"YOU\" to=\"/doperaider-u8212-you-u8212-inventory\">\n              <div className=\"text-wrapper-144\">YOU</div>\n\n              <div className=\"icon-67\" />\n            </Link>",
+          "line": 65,
+          "endLine": 69,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYou\\sections\\BottomNav2\\BottomNav2.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYou\\sections\\BottomNav2\\BottomNav2.tsx:71:12-to-src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "source": "src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "target": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-market",
+        "trigger": {
+          "element": "<Link className=\"div-12\" to=\"/doperaider-u8212-market\">\n              <div className=\"text-wrapper-145\">MARKET</div>\n\n              <div className=\"icon-68\">\n                <img className=\"layer-19\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\n              </div>\n            </Link>",
+          "line": 71,
+          "endLine": 77,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYou\\sections\\BottomNav2\\BottomNav2.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYou\\sections\\BottomNav2\\BottomNav2.tsx:79:12-to-src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "source": "src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "target": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-production",
+        "trigger": {
+          "element": "<Link className=\"div-12\" to=\"/doperaider-u8212-production\">\n              <div className=\"text-wrapper-146\">PRODUCE</div>\n\n              <div className=\"icon-69\">\n                <img\n                  className=\"layer-20\"\n                  alt=\"Layer\"\n                  src=\"/img/layer-1-16.svg\"\n                />\n              </div>\n            </Link>",
+          "line": 79,
+          "endLine": 89,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYou\\sections\\BottomNav2\\BottomNav2.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYou\\sections\\BottomNav2\\BottomNav2.tsx:91:12-to-src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "source": "src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "target": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-map",
+        "trigger": {
+          "element": "<Link className=\"div-12\" to=\"/doperaider-u8212-map\">\n              <div className=\"text-wrapper-147\">MAP</div>\n\n              <img className=\"icon-70\" alt=\"Icon\" src=\"/img/icon-44.svg\" />\n            </Link>",
+          "line": 91,
+          "endLine": 95,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYou\\sections\\BottomNav2\\BottomNav2.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYou\\sections\\YourStats\\YourStats.tsx:9:8-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-149\"\n          to=\"/doperaider-u8212-you-u8212-inventory\"\n        >\n          INVENTORY\n        </Link>",
+          "line": 9,
+          "endLine": 14,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYou\\sections\\YourStats\\YourStats.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYou\\sections\\YourStats\\YourStats.tsx:16:8-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "source": "src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-upgrades2",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-149\"\n          to=\"/doperaider-u8212-you-u8212-upgrades2\"\n        >\n          UPGRADES\n        </Link>",
+          "line": 16,
+          "endLine": 21,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYou\\sections\\YourStats\\YourStats.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYou\\sections\\YourStats\\YourStats.tsx:23:8-to-src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "source": "src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "target": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-upgrades",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-149\"\n          to=\"/doperaider-u8212-you-u8212-upgrades\"\n        >\n          SOCIAL\n        </Link>",
+          "line": 23,
+          "endLine": 28,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYou\\sections\\YourStats\\YourStats.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYou\\sections\\YourStats\\YourStats.tsx:30:8-to-src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "source": "src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "target": "src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-trophies",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-150\"\n          to=\"/doperaider-u8212-you-u8212-trophies\"\n        >\n          TROPHIES\n        </Link>",
+          "line": 30,
+          "endLine": 35,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYou\\sections\\YourStats\\YourStats.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouScreen\\sections\\Scroll\\Scroll.tsx:19:12-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link className=\"div-13\" to=\"/doperaider-u8212-you-u8212-inventory\">\n              <div className=\"text-wrapper-160\">VIBRATION</div>\n\n              <div className=\"frame-38\">\n                <div className=\"text-wrapper-161\">ON</div>\n              </div>\n            </Link>",
+          "line": 19,
+          "endLine": 25,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYouScreen\\sections\\Scroll\\Scroll.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouScreen\\sections\\BottomNav3\\BottomNav3.tsx:11:12-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link className=\"YOU-2\" to=\"/doperaider-u8212-you-u8212-inventory\">\n              <div className=\"text-wrapper-172\">YOU</div>\n\n              <div className=\"icon-76\" />\n            </Link>",
+          "line": 11,
+          "endLine": 15,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYouScreen\\sections\\BottomNav3\\BottomNav3.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouScreen\\sections\\BottomNav3\\BottomNav3.tsx:17:12-to-src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "source": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "target": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-market",
+        "trigger": {
+          "element": "<Link className=\"div-15\" to=\"/doperaider-u8212-market\">\n              <div className=\"text-wrapper-173\">MARKET</div>\n\n              <div className=\"icon-77\">\n                <img className=\"layer-23\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\n              </div>\n            </Link>",
+          "line": 17,
+          "endLine": 23,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYouScreen\\sections\\BottomNav3\\BottomNav3.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouScreen\\sections\\BottomNav3\\BottomNav3.tsx:25:12-to-src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "source": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "target": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-production",
+        "trigger": {
+          "element": "<Link className=\"div-15\" to=\"/doperaider-u8212-production\">\n              <div className=\"text-wrapper-174\">PRODUCE</div>\n\n              <div className=\"icon-78\">\n                <img\n                  className=\"layer-24\"\n                  alt=\"Layer\"\n                  src=\"/img/layer-1-19.svg\"\n                />\n              </div>\n            </Link>",
+          "line": 25,
+          "endLine": 35,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYouScreen\\sections\\BottomNav3\\BottomNav3.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouScreen\\sections\\BottomNav3\\BottomNav3.tsx:37:12-to-src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "source": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "target": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-map",
+        "trigger": {
+          "element": "<Link className=\"div-15\" to=\"/doperaider-u8212-map\">\n              <div className=\"text-wrapper-175\">MAP</div>\n\n              <img className=\"icon-79\" alt=\"Icon\" src=\"/img/icon-46.svg\" />\n            </Link>",
+          "line": 37,
+          "endLine": 41,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYouScreen\\sections\\BottomNav3\\BottomNav3.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouScreen\\sections\\YourStatsWrapper\\YourStatsWrapper.tsx:11:8-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "source": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-upgrades2",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-182\"\n          to=\"/doperaider-u8212-you-u8212-upgrades2\"\n        >\n          UPGRADES\n        </Link>",
+          "line": 11,
+          "endLine": 16,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYouScreen\\sections\\YourStatsWrapper\\YourStatsWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouScreen\\sections\\YourStatsWrapper\\YourStatsWrapper.tsx:18:8-to-src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "source": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "target": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-upgrades",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-182\"\n          to=\"/doperaider-u8212-you-u8212-upgrades\"\n        >\n          SOCIAL\n        </Link>",
+          "line": 18,
+          "endLine": 23,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYouScreen\\sections\\YourStatsWrapper\\YourStatsWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouScreen\\sections\\YourStatsWrapper\\YourStatsWrapper.tsx:25:8-to-src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "source": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "target": "src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-trophies",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-182\"\n          to=\"/doperaider-u8212-you-u8212-trophies\"\n        >\n          TROPHIES\n        </Link>",
+          "line": 25,
+          "endLine": 30,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYouScreen\\sections\\YourStatsWrapper\\YourStatsWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouWrapper\\sections\\BottomNav4\\BottomNav4.tsx:65:12-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link className=\"YOU-3\" to=\"/doperaider-u8212-you-u8212-inventory\">\n              <div className=\"text-wrapper-198\">YOU</div>\n\n              <div className=\"icon-89\" />\n            </Link>",
+          "line": 65,
+          "endLine": 69,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYouWrapper\\sections\\BottomNav4\\BottomNav4.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouWrapper\\sections\\BottomNav4\\BottomNav4.tsx:71:12-to-src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "source": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "target": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-market",
+        "trigger": {
+          "element": "<Link className=\"div-18\" to=\"/doperaider-u8212-market\">\n              <div className=\"text-wrapper-199\">MARKET</div>\n\n              <div className=\"icon-90\">\n                <img className=\"layer-27\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\n              </div>\n            </Link>",
+          "line": 71,
+          "endLine": 77,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYouWrapper\\sections\\BottomNav4\\BottomNav4.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouWrapper\\sections\\BottomNav4\\BottomNav4.tsx:79:12-to-src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "source": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "target": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-production",
+        "trigger": {
+          "element": "<Link className=\"div-18\" to=\"/doperaider-u8212-production\">\n              <div className=\"text-wrapper-200\">PRODUCE</div>\n\n              <div className=\"icon-91\">\n                <img\n                  className=\"layer-28\"\n                  alt=\"Layer\"\n                  src=\"/img/layer-1-21.svg\"\n                />\n              </div>\n            </Link>",
+          "line": 79,
+          "endLine": 89,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYouWrapper\\sections\\BottomNav4\\BottomNav4.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouWrapper\\sections\\BottomNav4\\BottomNav4.tsx:91:12-to-src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "source": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "target": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-map",
+        "trigger": {
+          "element": "<Link className=\"div-18\" to=\"/doperaider-u8212-map\">\n              <div className=\"text-wrapper-201\">MAP</div>\n\n              <img className=\"icon-92\" alt=\"Icon\" src=\"/img/icon-54.svg\" />\n            </Link>",
+          "line": 91,
+          "endLine": 95,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderYouWrapper\\sections\\BottomNav4\\BottomNav4.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouWrapper\\sections\\YourStats1\\YourStats1.tsx:9:8-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-inventory",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-203\"\n          to=\"/doperaider-u8212-you-u8212-inventory\"\n        >\n          INVENTORY\n        </Link>",
+          "line": 9,
+          "endLine": 14,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYouWrapper\\sections\\YourStats1\\YourStats1.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouWrapper\\sections\\YourStats1\\YourStats1.tsx:16:8-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "source": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-upgrades2",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-203\"\n          to=\"/doperaider-u8212-you-u8212-upgrades2\"\n        >\n          UPGRADES\n        </Link>",
+          "line": 16,
+          "endLine": 21,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYouWrapper\\sections\\YourStats1\\YourStats1.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouWrapper\\sections\\YourStats1\\YourStats1.tsx:23:8-to-src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "source": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "target": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-upgrades",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-204\"\n          to=\"/doperaider-u8212-you-u8212-upgrades\"\n        >\n          SOCIAL\n        </Link>",
+          "line": 23,
+          "endLine": 28,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYouWrapper\\sections\\YourStats1\\YourStats1.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouWrapper\\sections\\YourStats1\\YourStats1.tsx:30:8-to-src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "source": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "target": "src\\screens\\DoperaiderYou\\DoperaiderYou.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-trophies",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-203\"\n          to=\"/doperaider-u8212-you-u8212-trophies\"\n        >\n          TROPHIES\n        </Link>",
+          "line": 30,
+          "endLine": 35,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYouWrapper\\sections\\YourStats1\\YourStats1.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderYouWrapper\\sections\\Wallet\\Wallet.tsx:20:8-to-src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "source": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "target": "src\\screens\\DoperaiderYouWrapper\\DoperaiderYouWrapper.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-you-u8212-upgrades",
+        "trigger": {
+          "element": "<Link\n          className=\"text-wrapper-206\"\n          to=\"/doperaider-u8212-you-u8212-upgrades\"\n        >\n          INVITE FRIENDS\n        </Link>",
+          "line": 20,
+          "endLine": 25,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderYouWrapper\\sections\\Wallet\\Wallet.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Screen9 copy\\sections\\RaidList1\\RaidList1.tsx:9:8-to-src\\screens\\Screen8\\Screen8.tsx",
+      "source": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "target": "src\\screens\\Screen8\\Screen8.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid-u8212-selected-player",
+        "trigger": {
+          "element": "<Link\n          className=\"frame-58\"\n          to=\"/doperaider-u8212-raid-u8212-selected-player\"\n        >\n          <div className=\"overlap-group-22\">\n            <div className=\"frame-59\">\n              <div className=\"frame-60\">\n                <div className=\"profile-pic-21\" />\n\n                <div className=\"frame-61\">\n                  <img\n                    className=\"ellipse-23\"\n                    alt=\"Ellipse\"\n                    src=\"/img/ellipse-15-27.svg\"\n                  />\n\n                  <div className=\"text-wrapper-126\">TONY MONTANA</div>\n                </div>\n              </div>\n\n              <div className=\"stats-9\">\n                <div className=\"respect-9\">\n                  <div className=\"text-wrapper-127\">94</div>\n                </div>\n\n                <div className=\"coke-9\">\n                  <div className=\"text-wrapper-127\">0</div>\n                </div>\n\n                <div className=\"weed-11\">\n                  <div className=\"text-wrapper-127\">49</div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </Link>",
+          "line": 9,
+          "endLine": 44,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\Screen9 copy\\sections\\RaidList1\\RaidList1.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Screen9 copy\\sections\\RaidList1\\RaidList1.tsx:46:8-to-src\\screens\\DoperaiderRaidWrapper\\DoperaiderRaidWrapper.tsx",
+      "source": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "target": "src\\screens\\DoperaiderRaidWrapper\\DoperaiderRaidWrapper.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid-u8212-selected-player-u8212-protected",
+        "trigger": {
+          "element": "<Link\n          className=\"frame-58\"\n          to=\"/doperaider-u8212-raid-u8212-selected-player-u8212-protected\"\n        >\n          <div className=\"overlap-40\">\n            <div className=\"frame-59\">\n              <div className=\"frame-60\">\n                <div className=\"profile-pic-22\" />\n\n                <div className=\"frame-61\">\n                  <img\n                    className=\"ellipse-23\"\n                    alt=\"Ellipse\"\n                    src=\"/img/ellipse-15-28.svg\"\n                  />\n\n                  <div className=\"text-wrapper-126\">SONNY BLACK</div>\n                </div>\n              </div>\n\n              <div className=\"stats-9\">\n                <div className=\"respect-9\">\n                  <div className=\"text-wrapper-127\">60</div>\n                </div>\n\n                <div className=\"coke-9\">\n                  <div className=\"text-wrapper-127\">12</div>\n                </div>\n\n                <div className=\"weed-11\">\n                  <div className=\"text-wrapper-127\">48</div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </Link>",
+          "line": 46,
+          "endLine": 81,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\Screen9 copy\\sections\\RaidList1\\RaidList1.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Screen9 copy\\sections\\BottomNav3\\BottomNav3.tsx:101:12-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "source": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid",
+        "trigger": {
+          "element": "<Link className=\"RAID-6\" to=\"/doperaider-u8212-raid\">\n              <div className=\"text-wrapper-137\">RAID</div>\n\n              <img className=\"icon-63\" alt=\"Icon\" src=\"/img/icon-35.svg\" />\n            </Link>",
+          "line": 101,
+          "endLine": 105,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\Screen9 copy\\sections\\BottomNav3\\BottomNav3.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx:166:10-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "source": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid-u8212-active-raid-u8212-win",
+        "trigger": {
+          "element": "<Link\n            className=\"WEAPON-4\"\n            to=\"/doperaider-u8212-raid-u8212-active-raid-u8212-win\"\n          >\n            <div className=\"overlap-58\">\n              <img\n                className=\"rectangle-20\"\n                alt=\"Rectangle\"\n                src=\"/img/rectangle-7-3.svg\"\n              />\n\n              <img\n                className=\"mask-group-5\"\n                alt=\"Mask group\"\n                src=\"/img/mask-group-4.png\"\n              />\n\n              <img\n                className=\"pistol-3\"\n                alt=\"Pistol\"\n                src=\"/img/pistol-1-3.png\"\n              />\n            </div>\n          </Link>",
+          "line": 166,
+          "endLine": 189,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx:163:8-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "source": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid-u8212-active-raid-u8212-win",
+        "trigger": {
+          "element": "<Link\n          className=\"WEAPON-2\"\n          to=\"/doperaider-u8212-raid-u8212-active-raid-u8212-win\"\n        >\n          <div className=\"overlap-50\">\n            <img\n              className=\"rectangle-15\"\n              alt=\"Rectangle\"\n              src=\"/img/rectangle-4-1.svg\"\n            />\n\n            <img\n              className=\"rectangle-16\"\n              alt=\"Rectangle\"\n              src=\"/img/rectangle-7-1.svg\"\n            />\n\n            <img\n              className=\"mask-group-4\"\n              alt=\"Mask group\"\n              src=\"/img/mask-group-1.png\"\n            />\n\n            <img className=\"pistol-2\" alt=\"Pistol\" src=\"/img/pistol-1-1.png\" />\n          </div>\n        </Link>",
+          "line": 163,
+          "endLine": 188,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx:190:8-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "source": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid",
+        "trigger": {
+          "element": "<Link className=\"text-wrapper-151\" to=\"/doperaider-u8212-raid\">\n          CLOSING in 5 SECONDS...\n        </Link>",
+          "line": 190,
+          "endLine": 192,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx:9:8-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "source": "src\\screens\\Screen8\\Screen8.tsx",
+      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid",
+        "trigger": {
+          "element": "<Link className=\"frame-50\" to=\"/doperaider-u8212-raid\">\n          <div className=\"overlap-32\">\n            <img\n              className=\"organic-grunge-bold-7\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-48.svg\"\n            />\n\n            <Link\n              className=\"trade-7\"\n              to=\"/doperaider-u8212-raid-u8212-active-raid\"\n            >\n              <div className=\"text-wrapper-105\">RAID $0.25</div>\n            </Link>\n\n            <div className=\"WIN-STATS-5\">\n              <div className=\"overlap-33\">\n                <div className=\"raids-5\">\n                  <div className=\"overlap-group-20\">\n                    <div className=\"text-wrapper-106\">RAIDS</div>\n\n                    <div className=\"text-wrapper-107\">5</div>\n\n                    <div className=\"frame-51\">\n                      <img\n                        className=\"union-12\"\n                        alt=\"Union\"\n                        src=\"/img/union-19.svg\"\n                      />\n                    </div>\n                  </div>\n                </div>\n\n                <div className=\"losses-5\">\n                  <div className=\"overlap-34\">\n                    <div className=\"text-wrapper-108\">LOSSES</div>\n\n                    <div className=\"text-wrapper-109\">2</div>\n\n                    <div className=\"frame-52\">\n                      <img\n                        className=\"union-13\"\n                        alt=\"Union\"\n                        src=\"/img/union-20.svg\"\n                      />\n                    </div>\n                  </div>\n                </div>\n\n                <div className=\"wins-5\">\n                  <div className=\"overlap-35\">\n                    <div className=\"frame-51\">\n                      <img\n                        className=\"union-12\"\n                        alt=\"Union\"\n                        src=\"/img/union-21.svg\"\n                      />\n                    </div>\n\n                    <div className=\"ellipse-21\" />\n\n                    <div className=\"text-wrapper-110\">WINS</div>\n\n                    <div className=\"text-wrapper-111\">3</div>\n                  </div>\n                </div>\n              </div>\n            </div>\n\n            <img\n              className=\"organic-grunge-bold-8\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-49.svg\"\n            />\n\n            <div className=\"frame-53\">\n              <div className=\"frame-54\">\n                <div className=\"profile-pic-15\" />\n\n                <div className=\"frame-55\">\n                  <img\n                    className=\"ellipse-22\"\n                    alt=\"Ellipse\"\n                    src=\"/img/ellipse-15-18.svg\"\n                  />\n\n                  <div className=\"text-wrapper-112\">TONY MONTANA</div>\n                </div>\n              </div>\n\n              <div className=\"stats-7\">\n                <div className=\"respect-7\">\n                  <div className=\"text-wrapper-113\">94</div>\n                </div>\n\n                <div className=\"coke-7\">\n                  <div className=\"text-wrapper-113\">0</div>\n                </div>\n\n                <div className=\"weed-9\">\n                  <div className=\"text-wrapper-113\">49</div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </Link>",
+          "line": 9,
+          "endLine": 114,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx:17:12-to-src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx",
+      "source": "src\\screens\\Screen8\\Screen8.tsx",
+      "target": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid-u8212-active-raid",
+        "trigger": {
+          "element": "<Link\n              className=\"trade-7\"\n              to=\"/doperaider-u8212-raid-u8212-active-raid\"\n            >\n              <div className=\"text-wrapper-105\">RAID $0.25</div>\n            </Link>",
+          "line": 17,
+          "endLine": 22,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Screen8\\sections\\BottomNav2\\BottomNav2.tsx:101:12-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "source": "src\\screens\\Screen8\\Screen8.tsx",
+      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid",
+        "trigger": {
+          "element": "<Link className=\"RAID-5\" to=\"/doperaider-u8212-raid\">\n              <div className=\"text-wrapper-123\">RAID</div>\n\n              <img className=\"icon-53\" alt=\"Icon\" src=\"/img/icon-29.svg\" />\n            </Link>",
+          "line": 101,
+          "endLine": 105,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\Screen8\\sections\\BottomNav2\\BottomNav2.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderRaidWrapper\\sections\\PlayersWrapper\\PlayersWrapper.tsx:9:8-to-src\\screens\\Screen8\\Screen8.tsx",
+      "source": "src\\screens\\DoperaiderRaidWrapper\\DoperaiderRaidWrapper.tsx",
+      "target": "src\\screens\\Screen8\\Screen8.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid-u8212-selected-player",
+        "trigger": {
+          "element": "<Link\n          className=\"frame-41\"\n          to=\"/doperaider-u8212-raid-u8212-selected-player\"\n        >\n          <div className=\"overlap-group-16\">\n            <div className=\"frame-42\">\n              <div className=\"frame-43\">\n                <div className=\"profile-pic-9\" />\n\n                <div className=\"frame-44\">\n                  <img\n                    className=\"ellipse-19\"\n                    alt=\"Ellipse\"\n                    src=\"/img/ellipse-15-9.svg\"\n                  />\n\n                  <div className=\"text-wrapper-85\">TONY MONTANA</div>\n                </div>\n              </div>\n\n              <div className=\"stats-5\">\n                <div className=\"respect-5\">\n                  <div className=\"text-wrapper-86\">94</div>\n                </div>\n\n                <div className=\"coke-5\">\n                  <div className=\"text-wrapper-86\">0</div>\n                </div>\n\n                <div className=\"weed-7\">\n                  <div className=\"text-wrapper-86\">49</div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </Link>",
+          "line": 9,
+          "endLine": 44,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderRaidWrapper\\sections\\PlayersWrapper\\PlayersWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderRaidWrapper\\sections\\PlayersWrapper\\PlayersWrapper.tsx:46:8-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "source": "src\\screens\\DoperaiderRaidWrapper\\DoperaiderRaidWrapper.tsx",
+      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid",
+        "trigger": {
+          "element": "<Link className=\"frame-45\" to=\"/doperaider-u8212-raid\">\n          <div className=\"overlap-25\">\n            <img\n              className=\"organic-grunge-bold-5\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-26.svg\"\n            />\n\n            <div className=\"trade-6\">\n              <div className=\"group-7\">\n                <div className=\"overlap-group-17\">\n                  <img\n                    className=\"mask-group-2\"\n                    alt=\"Mask group\"\n                    src=\"/img/mask-group-11.png\"\n                  />\n                </div>\n              </div>\n\n              <div className=\"PROTECTED\">\n                PROTECTED\n                <br />\n                15mins 23secs\n              </div>\n            </div>\n\n            <div className=\"WIN-STATS-4\">\n              <div className=\"overlap-26\">\n                <div className=\"raids-4\">\n                  <div className=\"overlap-group-18\">\n                    <div className=\"frame-46\">\n                      <img\n                        className=\"union-10\"\n                        alt=\"Union\"\n                        src=\"/img/union-16.svg\"\n                      />\n                    </div>\n\n                    <div className=\"text-wrapper-87\">RAIDS</div>\n\n                    <div className=\"text-wrapper-88\">4</div>\n                  </div>\n                </div>\n\n                <div className=\"losses-4\">\n                  <div className=\"overlap-27\">\n                    <div className=\"frame-47\">\n                      <img\n                        className=\"union-11\"\n                        alt=\"Union\"\n                        src=\"/img/union-17.svg\"\n                      />\n                    </div>\n\n                    <div className=\"text-wrapper-89\">LOSSES</div>\n\n                    <div className=\"text-wrapper-90\">1</div>\n                  </div>\n                </div>\n\n                <div className=\"wins-4\">\n                  <div className=\"overlap-28\">\n                    <div className=\"frame-46\">\n                      <img\n                        className=\"union-10\"\n                        alt=\"Union\"\n                        src=\"/img/union-18.svg\"\n                      />\n                    </div>\n\n                    <div className=\"ellipse-20\" />\n\n                    <div className=\"text-wrapper-91\">WINS</div>\n\n                    <div className=\"text-wrapper-92\">3</div>\n                  </div>\n                </div>\n              </div>\n            </div>\n\n            <img\n              className=\"organic-grunge-bold-6\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-27.svg\"\n            />\n\n            <div className=\"frame-48\">\n              <div className=\"frame-43\">\n                <div className=\"profile-pic-10\" />\n\n                <div className=\"frame-44\">\n                  <img\n                    className=\"ellipse-19\"\n                    alt=\"Ellipse\"\n                    src=\"/img/ellipse-15-10.svg\"\n                  />\n\n                  <div className=\"text-wrapper-85\">SONNY BLACK</div>\n                </div>\n              </div>\n\n              <div className=\"stats-5\">\n                <div className=\"respect-5\">\n                  <div className=\"text-wrapper-86\">60</div>\n                </div>\n\n                <div className=\"coke-5\">\n                  <div className=\"text-wrapper-86\">12</div>\n                </div>\n\n                <div className=\"weed-7\">\n                  <div className=\"text-wrapper-86\">48</div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </Link>",
+          "line": 46,
+          "endLine": 162,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderRaidWrapper\\sections\\PlayersWrapper\\PlayersWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderRaidWrapper\\sections\\BottomNav1\\BottomNav1.tsx:101:12-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "source": "src\\screens\\DoperaiderRaidWrapper\\DoperaiderRaidWrapper.tsx",
+      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid",
+        "trigger": {
+          "element": "<Link className=\"RAID-4\" to=\"/doperaider-u8212-raid\">\n              <div className=\"text-wrapper-102\">RAID</div>\n\n              <img className=\"icon-43\" alt=\"Icon\" src=\"/img/icon-23.svg\" />\n            </Link>",
+          "line": 101,
+          "endLine": 105,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\DoperaiderRaidWrapper\\sections\\BottomNav1\\BottomNav1.tsx"
+        }
+      }
+    }
+  ]
+}

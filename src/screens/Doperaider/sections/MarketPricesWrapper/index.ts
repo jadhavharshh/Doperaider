@@ -1,0 +1,1 @@
+export { MarketPricesWrapper } from "./MarketPricesWrapper";

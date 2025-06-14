@@ -1,0 +1,110 @@
+.doperaider-YOU-wrapper {
+  background-color: #000000;
+  height: 852px;
+  width: 393px;
+}
+
+.doperaider-YOU-wrapper .overlap-57 {
+  height: 852px;
+  position: relative;
+}
+
+.doperaider-YOU-wrapper .telegram-cloud-photo-3 {
+  height: 729px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 123px;
+  width: 393px;
+}
+
+.doperaider-YOU-wrapper .LOGO-3 {
+  height: 28px;
+  left: 118px;
+  position: absolute;
+  top: 60px;
+  width: 157px;
+}
+
+.doperaider-YOU-wrapper .TOP-3 {
+  background: linear-gradient(
+    180deg,
+    rgba(48, 48, 48, 1) 0%,
+    rgba(27, 27, 27, 1) 100%
+  );
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #000000;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 293px;
+  width: 393px;
+}
+
+.doperaider-YOU-wrapper .element-at-hga-wrapper {
+  background-image: url(../../../static/img/ellipse-4-37.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 245px;
+  position: absolute;
+  top: 8px;
+  width: 32px;
+}
+
+.doperaider-YOU-wrapper .element-at-hga {
+  height: 19px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+
+.doperaider-YOU-wrapper .icon-117 {
+  background-image: url(../../../static/img/ellipse-4-38.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 289px;
+  position: absolute;
+  top: 8px;
+  width: 32px;
+}
+
+.doperaider-YOU-wrapper .vector-32 {
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 17px;
+}
+
+.doperaider-YOU-wrapper .icon-118 {
+  background-image: url(../../../static/img/ellipse-4-39.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 333px;
+  position: absolute;
+  top: 7px;
+  width: 32px;
+}
+
+.doperaider-YOU-wrapper .vector-33 {
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: 5px;
+  width: 19px;
+}
+
+.doperaider-YOU-wrapper .text-wrapper-261 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}

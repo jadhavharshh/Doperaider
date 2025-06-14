@@ -1,0 +1,56 @@
+.YOUR-STATS-wrapper {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #000000;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 250px;
+  width: 393px;
+}
+
+.YOUR-STATS-wrapper .navbar-2 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  left: 22px;
+  position: absolute;
+  top: 12px;
+  width: 349px;
+}
+
+.YOUR-STATS-wrapper .text-wrapper-181 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.YOUR-STATS-wrapper .text-wrapper-182 {
+  color: #aeaeae;
+  display: block;
+  font-family: "Bangers", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.YOUR-STATS-wrapper .rectangle-8 {
+  background-color: #ffaa22;
+  height: 3px;
+  left: 22px;
+  position: absolute;
+  top: 40px;
+  width: 77px;
+}

@@ -1,0 +1,159 @@
+.doperaider {
+  background-color: #ffffff;
+  height: 852px;
+  overflow: hidden;
+  width: 393px;
+}
+
+.doperaider .overlap-50 {
+  height: 944px;
+  left: -277px;
+  position: relative;
+  top: -78px;
+  width: 906px;
+}
+
+.doperaider .BG-2 {
+  height: 944px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 906px;
+}
+
+.doperaider .overlap-group-39 {
+  height: 944px;
+  position: relative;
+}
+
+.doperaider .image {
+  height: 741px;
+  left: 277px;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: 393px;
+}
+
+.doperaider .rectangle-14 {
+  background-color: #00000099;
+  height: 874px;
+  left: 262px;
+  position: absolute;
+  top: 70px;
+  width: 426px;
+}
+
+.doperaider .ellipse-34 {
+  background-color: #ffffff;
+  border-radius: 114.5px/216.5px;
+  filter: blur(27px);
+  height: 433px;
+  left: 359px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 289px;
+  width: 229px;
+}
+
+.doperaider .ellipse-35 {
+  background-color: #ffffff;
+  border-radius: 58.5px/166.5px;
+  filter: blur(27px);
+  height: 333px;
+  left: 306px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 202px;
+  width: 117px;
+}
+
+.doperaider .ellipse-36 {
+  background-color: #ffffff;
+  border-radius: 63.5px/216.5px;
+  filter: blur(27px);
+  height: 433px;
+  left: 524px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 126px;
+  width: 127px;
+}
+
+.doperaider .ellipse-37 {
+  background-color: #000000;
+  border-radius: 203.24px/453.09px;
+  filter: blur(27px);
+  height: 906px;
+  left: 250px;
+  mix-blend-mode: soft-light;
+  opacity: 0.3;
+  position: absolute;
+  top: -250px;
+  transform: rotate(90deg);
+  width: 406px;
+}
+
+.doperaider .ellipse-38 {
+  background-color: #000000;
+  border-radius: 125px/279px;
+  filter: blur(27px);
+  height: 558px;
+  left: 338px;
+  mix-blend-mode: soft-light;
+  opacity: 0.6;
+  position: absolute;
+  top: -145px;
+  transform: rotate(90deg);
+  width: 250px;
+}
+
+.doperaider .text-wrapper-255 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 405px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 136px;
+  white-space: nowrap;
+}
+
+.doperaider .frame-77 {
+  height: 42px;
+  left: 371px;
+  position: absolute;
+  top: 289px;
+  width: 208px;
+}
+
+.doperaider .overlap-51 {
+  background-image: url(../../../static/img/organic-grunge-bold-shapes-15.svg);
+  background-size: 100% 100%;
+  height: 48px;
+  left: -38px;
+  position: relative;
+  top: -3px;
+  width: 284px;
+}
+
+.doperaider .text-wrapper-256 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(141deg, rgba(255, 220, 165, 1) 0%, rgba(214, 183, 134, 1) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Bangers", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 11px;
+  white-space: nowrap;
+}

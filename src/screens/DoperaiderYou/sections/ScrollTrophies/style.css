@@ -1,0 +1,481 @@
+.SCROLL-TROPHIES {
+  height: 438px;
+  left: 13px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 293px;
+  width: 361px;
+}
+
+.SCROLL-TROPHIES .TROPHIES {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 555px;
+  position: relative;
+  top: 16px;
+  width: 361px;
+}
+
+.SCROLL-TROPHIES .frame-21 {
+  align-self: stretch;
+  height: 172px;
+  position: relative;
+  width: 100%;
+}
+
+.SCROLL-TROPHIES .frame-22 {
+  background-color: #000000b2;
+  border: 1px solid;
+  border-color: #72727266;
+  border-radius: 4px;
+  height: 172px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 176px;
+}
+
+.SCROLL-TROPHIES .overlap-14 {
+  height: 214px;
+  left: -25px;
+  position: relative;
+  top: -35px;
+  width: 218px;
+}
+
+.SCROLL-TROPHIES .overlap-group-15 {
+  height: 214px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.SCROLL-TROPHIES .organic-grunge-bold-2 {
+  height: 179px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.SCROLL-TROPHIES .frame-23 {
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 51px;
+  width: 56px;
+}
+
+.SCROLL-TROPHIES .element-for-next-rank {
+  color: transparent;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 180px;
+  width: 144px;
+}
+
+.SCROLL-TROPHIES .text-wrapper-131 {
+  color: #f8f8f8;
+}
+
+.SCROLL-TROPHIES .text-wrapper-132 {
+  color: #ffffff;
+}
+
+.SCROLL-TROPHIES .text-wrapper-133 {
+  color: #aeaeae;
+}
+
+.SCROLL-TROPHIES .frame-24 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 41px;
+  position: absolute;
+  top: 67px;
+  width: 144px;
+}
+
+.SCROLL-TROPHIES .text-wrapper-134 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.SCROLL-TROPHIES .text-wrapper-135 {
+  align-self: stretch;
+  color: #f8f8f8;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: relative;
+  text-align: center;
+}
+
+.SCROLL-TROPHIES .weed-7 {
+  align-items: center;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(102, 102, 102, 1) 100%
+  );
+  border: none;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  mix-blend-mode: luminosity;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+}
+
+.SCROLL-TROPHIES .weed-7::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(102, 102, 102, 1) 100%
+  );
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.SCROLL-TROPHIES .div-10 {
+  color: transparent;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.SCROLL-TROPHIES .text-wrapper-136 {
+  color: #ffaa22;
+}
+
+.SCROLL-TROPHIES .element-st-wrapper {
+  background-image: url(../../../../../static/img/polygon-2-1.svg);
+  background-size: 100% 100%;
+  height: 38px;
+  left: 171px;
+  position: absolute;
+  top: 176px;
+  width: 38px;
+}
+
+.SCROLL-TROPHIES .element-st {
+  height: 15px;
+  left: 13px;
+  position: absolute;
+  top: 11px;
+  width: 11px;
+}
+
+.SCROLL-TROPHIES .frame-25 {
+  align-items: center;
+  display: flex;
+  gap: 2.69px;
+  height: 28px;
+  left: 31px;
+  position: absolute;
+  top: 41px;
+  width: 28px;
+}
+
+.SCROLL-TROPHIES .element-bz-vy-wrapper {
+  background-image: url(../../../../../static/img/ellipse-4-25.svg);
+  background-size: 100% 100%;
+  height: 28px;
+  position: relative;
+  width: 28px;
+}
+
+.SCROLL-TROPHIES .element-bz-vy {
+  height: 16px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 16px;
+}
+
+.SCROLL-TROPHIES .rectangle {
+  background-color: #00ff4fbf;
+  height: 4px;
+  left: 25px;
+  position: absolute;
+  top: 203px;
+  width: 116px;
+}
+
+.SCROLL-TROPHIES .frame-26 {
+  background-color: #000000b2;
+  border: 1px solid;
+  border-color: #72727266;
+  border-radius: 4px;
+  height: 172px;
+  left: 185px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 176px;
+}
+
+.SCROLL-TROPHIES .text-wrapper-137 {
+  align-self: stretch;
+  color: #f8f8f8;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: relative;
+  text-align: center;
+}
+
+.SCROLL-TROPHIES .element-st-u-wrapper {
+  background-image: url(../../../../../static/img/polygon-2-2.svg);
+  background-size: 100% 100%;
+  height: 38px;
+  left: 171px;
+  position: absolute;
+  top: 176px;
+  width: 38px;
+}
+
+.SCROLL-TROPHIES .element-q-bz-vy-wrapper {
+  background-image: url(../../../../../static/img/ellipse-4-26.svg);
+  background-size: 100% 100%;
+  height: 28px;
+  position: relative;
+  width: 28px;
+}
+
+.SCROLL-TROPHIES .rectangle-2 {
+  background-color: #00ff4f;
+  height: 4px;
+  left: 25px;
+  position: absolute;
+  top: 203px;
+  width: 143px;
+}
+
+.SCROLL-TROPHIES .frame-27 {
+  background-image: url(../../../../../static/img/polygon-2-3.svg);
+  background-size: 100% 100%;
+  height: 38px;
+  left: 171px;
+  position: absolute;
+  top: 176px;
+  width: 38px;
+}
+
+.SCROLL-TROPHIES .icon-59 {
+  background-image: url(../../../../../static/img/ellipse-4-27.svg);
+  background-size: 100% 100%;
+  height: 28px;
+  position: relative;
+  width: 28px;
+}
+
+.SCROLL-TROPHIES .rectangle-3 {
+  background-color: #00ff4f;
+  height: 4px;
+  left: 25px;
+  position: absolute;
+  top: 203px;
+  width: 74px;
+}
+
+.SCROLL-TROPHIES .frame-28 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 74px;
+  left: 41px;
+  position: absolute;
+  top: 67px;
+  width: 144px;
+}
+
+.SCROLL-TROPHIES .weed-8 {
+  align-items: center;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(102, 102, 102, 1) 100%
+  );
+  border: none;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: -16.00px;
+  mix-blend-mode: luminosity;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+}
+
+.SCROLL-TROPHIES .weed-8::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(102, 102, 102, 1) 100%
+  );
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.SCROLL-TROPHIES .frame-29 {
+  background-image: url(../../../../../static/img/polygon-2-4.svg);
+  background-size: 100% 100%;
+  height: 38px;
+  left: 171px;
+  position: absolute;
+  top: 176px;
+  width: 38px;
+}
+
+.SCROLL-TROPHIES .icon-60 {
+  background-image: url(../../../../../static/img/ellipse-4-28.svg);
+  background-size: 100% 100%;
+  height: 28px;
+  position: relative;
+  width: 28px;
+}
+
+.SCROLL-TROPHIES .rectangle-4 {
+  background-color: #00ff4f;
+  height: 4px;
+  left: 25px;
+  position: absolute;
+  top: 203px;
+  width: 121px;
+}
+
+.SCROLL-TROPHIES .frame-30 {
+  background-image: url(../../../../../static/img/polygon-2-5.svg);
+  background-size: 100% 100%;
+  height: 38px;
+  left: 171px;
+  position: absolute;
+  top: 176px;
+  width: 38px;
+}
+
+.SCROLL-TROPHIES .icon-61 {
+  background-image: url(../../../../../static/img/ellipse-4-29.svg);
+  background-size: 100% 100%;
+  height: 28px;
+  position: relative;
+  width: 28px;
+}
+
+.SCROLL-TROPHIES .rectangle-5 {
+  background-color: #00ff4f;
+  height: 4px;
+  left: 25px;
+  position: absolute;
+  top: 203px;
+  width: 42px;
+}
+
+.SCROLL-TROPHIES .overlap-15 {
+  background-image: url(../../../../../static/img/organic-grunge-bold-shapes-24.svg);
+  background-size: 100% 100%;
+  height: 179px;
+  left: -25px;
+  position: absolute;
+  top: -35px;
+  width: 218px;
+}
+
+.SCROLL-TROPHIES .text-wrapper-138 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.SCROLL-TROPHIES .icon-62 {
+  background-image: url(../../../../../static/img/ellipse-4-30.svg);
+  background-size: 100% 100%;
+  height: 28px;
+  position: relative;
+  width: 28px;
+}
+
+.SCROLL-TROPHIES .text-wrapper-139 {
+  color: #aeaeae;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 145px;
+  width: 144px;
+}
+
+.SCROLL-TROPHIES::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}

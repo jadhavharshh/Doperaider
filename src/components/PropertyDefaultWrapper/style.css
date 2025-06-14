@@ -1,0 +1,123 @@
+.property-default-wrapper {
+  background: linear-gradient(
+    180deg,
+    rgba(48, 48, 48, 1) 0%,
+    rgba(27, 27, 27, 1) 100%
+  );
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #000000;
+  height: 40px;
+  position: relative;
+  width: 393px;
+}
+
+.property-default-wrapper .frame-63 {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  left: 16px;
+  position: absolute;
+  top: 10px;
+}
+
+.property-default-wrapper .layer-19 {
+  height: 17px;
+  position: relative;
+  width: 22px;
+}
+
+.property-default-wrapper .text-wrapper-140 {
+  color: #ffaa22;
+  font-family: "Roboto Condensed-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.property-default-wrapper .overlap-group-24 {
+  height: 40px;
+  left: 93px;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.property-default-wrapper .frame-64 {
+  height: 19px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 10px;
+  width: 300px;
+}
+
+.property-default-wrapper .frame-65 {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  position: relative;
+}
+
+.property-default-wrapper .EL-CHAPO-RAIDED-IN {
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.property-default-wrapper .ellipse-24 {
+  background-color: #aeaeae80;
+  border-radius: 2px;
+  height: 4px;
+  position: relative;
+  width: 4px;
+}
+
+.property-default-wrapper .text-wrapper-141 {
+  color: #aeaeae;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.property-default-wrapper .rectangle-10 {
+  background: linear-gradient(
+    270deg,
+    rgba(32, 32, 32, 0) 0%,
+    rgba(32, 32, 32, 1) 100%
+  );
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.property-default-wrapper .variant-2 {
+  left: -318px;
+}
+
+.property-default-wrapper .frame-65.default .EL-CHAPO-RAIDED-IN {
+  color: #ff5353;
+}
+
+.property-default-wrapper .frame-65.variant-2 .EL-CHAPO-RAIDED-IN {
+  color: #aeaeae;
+}

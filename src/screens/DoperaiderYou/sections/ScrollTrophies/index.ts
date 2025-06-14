@@ -1,0 +1,1 @@
+export { ScrollTrophies } from "./ScrollTrophies";

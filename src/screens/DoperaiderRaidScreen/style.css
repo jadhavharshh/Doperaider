@@ -1,0 +1,809 @@
+.doperaider-RAID-screen {
+  background-color: #ffffff;
+  height: 852px;
+  overflow: hidden;
+  position: relative;
+  width: 393px;
+}
+
+.doperaider-RAID-screen .overlap-51 {
+  height: 944px;
+  left: -277px;
+  position: absolute;
+  top: -78px;
+  width: 906px;
+}
+
+.doperaider-RAID-screen .BG-3 {
+  height: 944px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 906px;
+}
+
+.doperaider-RAID-screen .overlap-group-29 {
+  height: 944px;
+  position: relative;
+}
+
+.doperaider-RAID-screen .image-2 {
+  height: 852px;
+  left: 277px;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: 393px;
+}
+
+.doperaider-RAID-screen .rectangle-17 {
+  background-color: #0000004c;
+  height: 874px;
+  left: 262px;
+  position: absolute;
+  top: 70px;
+  width: 426px;
+}
+
+.doperaider-RAID-screen .ellipse-35 {
+  background-color: #ffffff;
+  border-radius: 114.5px/216.5px;
+  filter: blur(27px);
+  height: 433px;
+  left: 359px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 289px;
+  width: 229px;
+}
+
+.doperaider-RAID-screen .ellipse-36 {
+  background-color: #ffffff;
+  border-radius: 58.5px/166.5px;
+  filter: blur(27px);
+  height: 333px;
+  left: 306px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 202px;
+  width: 117px;
+}
+
+.doperaider-RAID-screen .ellipse-37 {
+  background-color: #ffffff;
+  border-radius: 63.5px/216.5px;
+  filter: blur(27px);
+  height: 433px;
+  left: 505px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 168px;
+  width: 127px;
+}
+
+.doperaider-RAID-screen .ellipse-38 {
+  background-color: #000000;
+  border-radius: 203.24px/453.09px;
+  filter: blur(27px);
+  height: 906px;
+  left: 250px;
+  mix-blend-mode: soft-light;
+  opacity: 0.3;
+  position: absolute;
+  top: -250px;
+  transform: rotate(90deg);
+  width: 406px;
+}
+
+.doperaider-RAID-screen .ellipse-39 {
+  background-color: #000000;
+  border-radius: 125px/279px;
+  filter: blur(27px);
+  height: 558px;
+  left: 338px;
+  mix-blend-mode: soft-light;
+  opacity: 0.6;
+  position: absolute;
+  top: -145px;
+  transform: rotate(90deg);
+  width: 250px;
+}
+
+.doperaider-RAID-screen .WIN-STATS-6 {
+  height: 126px;
+  left: 351px;
+  position: absolute;
+  top: 433px;
+  width: 246px;
+}
+
+.doperaider-RAID-screen .overlap-52 {
+  height: 126px;
+  left: 1px;
+  position: relative;
+  width: 244px;
+}
+
+.doperaider-RAID-screen .raids-6 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border: none;
+  border-radius: 4px 0px 0px 4px;
+  height: 110px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 8px;
+  width: 82px;
+}
+
+.doperaider-RAID-screen .raids-6::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px 0px 0px 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID-screen .overlap-group-30 {
+  height: 218px;
+  left: -66px;
+  position: relative;
+  top: -69px;
+  width: 218px;
+}
+
+.doperaider-RAID-screen .text-wrapper-153 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 88px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 83px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID-screen .text-wrapper-154 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 106px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID-screen .frame-73 {
+  align-items: center;
+  display: inline-flex;
+  gap: 3px;
+  left: 34px;
+  position: absolute;
+  top: 30px;
+  transform: rotate(45deg);
+}
+
+.doperaider-RAID-screen .union-14 {
+  height: 110px;
+  mix-blend-mode: overlay;
+  position: relative;
+  transform: rotate(-45deg);
+  width: 82px;
+}
+
+.doperaider-RAID-screen .losses-6 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border: none;
+  border-radius: 0px 4px 4px 0px;
+  height: 110px;
+  left: 162px;
+  overflow: hidden;
+  position: absolute;
+  top: 8px;
+  width: 82px;
+}
+
+.doperaider-RAID-screen .losses-6::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 0px 4px 4px 0px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID-screen .overlap-53 {
+  height: 218px;
+  left: -62px;
+  position: relative;
+  top: -43px;
+  width: 218px;
+}
+
+.doperaider-RAID-screen .text-wrapper-155 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID-screen .text-wrapper-156 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 80px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID-screen .frame-74 {
+  align-items: center;
+  display: inline-flex;
+  gap: 3px;
+  left: 34px;
+  position: absolute;
+  top: 30px;
+  transform: rotate(-45deg);
+}
+
+.doperaider-RAID-screen .union-15 {
+  height: 110px;
+  mix-blend-mode: overlay;
+  position: relative;
+  transform: rotate(45deg);
+  width: 82px;
+}
+
+.doperaider-RAID-screen .wins-6 {
+  background: linear-gradient(180deg, rgba(78, 161, 56, 1) 0%, rgba(20, 62, 35, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  height: 126px;
+  left: 81px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 82px;
+}
+
+.doperaider-RAID-screen .wins-6::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(60, 224, 0, 1) 0%, rgba(91, 255, 143, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID-screen .overlap-54 {
+  height: 218px;
+  left: -65px;
+  position: relative;
+  top: -39px;
+  width: 218px;
+}
+
+.doperaider-RAID-screen .union-16 {
+  height: 126px;
+  mix-blend-mode: overlay;
+  position: relative;
+  transform: rotate(-45deg);
+  width: 82px;
+}
+
+.doperaider-RAID-screen .ellipse-40 {
+  background-color: #72ff00;
+  border-radius: 27.5px/65px;
+  filter: blur(27px);
+  height: 130px;
+  left: 78px;
+  mix-blend-mode: color;
+  position: absolute;
+  top: 1px;
+  transform: rotate(90deg);
+  width: 55px;
+}
+
+.doperaider-RAID-screen .text-wrapper-157 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 61px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID-screen .text-wrapper-158 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 94px;
+  letter-spacing: -2.88px;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 84px;
+  white-space: nowrap;
+}
+
+.doperaider-RAID-screen .PROFILE-PIC-NAME-3 {
+  height: 160px;
+  left: 410px;
+  position: absolute;
+  top: 214px;
+  width: 128px;
+}
+
+.doperaider-RAID-screen .overlap-55 {
+  height: 160px;
+  left: -43px;
+  position: relative;
+  width: 212px;
+}
+
+.doperaider-RAID-screen .profile-pic-29 {
+  background-color: #2f2f2f;
+  border-radius: 160px;
+  box-shadow: 0px 4px 8px #0000001a, 0px 14px 14px #00000017, 0px 32px 19px #0000000d, 0px 56px 23px #00000003,
+    0px 88px 25px transparent;
+  height: 128px;
+  left: 43px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.doperaider-RAID-screen .telegram-peer-photo-5 {
+  height: 128px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.doperaider-RAID-screen .name-tag-3 {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 118px;
+  width: 212px;
+}
+
+.doperaider-RAID-screen .frame-75 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  left: 387px;
+  position: absolute;
+  top: 336px;
+}
+
+.doperaider-RAID-screen .ellipse-41 {
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.doperaider-RAID-screen .text-wrapper-159 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.doperaider-RAID-screen .frame-76 {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  left: 392px;
+  position: absolute;
+  top: 385px;
+}
+
+.doperaider-RAID-screen .respect-13 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(10, 10, 40, 1) 0%, rgba(73, 73, 127, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  height: 32px;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+}
+
+.doperaider-RAID-screen .respect-13::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID-screen .icon-76 {
+  background-image: url(../../../static/img/9athga-14.png);
+  background-size: 100% 100%;
+  height: 14px;
+  position: relative;
+  width: 11px;
+}
+
+.doperaider-RAID-screen .text-wrapper-160 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.doperaider-RAID-screen .coke-13 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(137, 146, 165, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  height: 32px;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+}
+
+.doperaider-RAID-screen .coke-13::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID-screen .icon-77 {
+  background-image: url(../../../static/img/vector-11.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  width: 13px;
+}
+
+.doperaider-RAID-screen .weed-15 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(16, 52, 29, 1) 0%, rgba(49, 137, 82, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  height: 32px;
+  overflow: hidden;
+  padding: 4px 8px;
+  position: relative;
+}
+
+.doperaider-RAID-screen .weed-15::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID-screen .icon-78 {
+  background-image: url(../../../static/img/vector-12.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  width: 14px;
+}
+
+.doperaider-RAID-screen .CHOOSE-WEAPON {
+  height: 222px;
+  left: 16px;
+  position: fixed;
+  top: 505px;
+  width: 361px;
+}
+
+.doperaider-RAID-screen .overlap-56 {
+  height: 215px;
+  position: relative;
+}
+
+.doperaider-RAID-screen .WEAPON-BOX {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  height: 201px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 14px;
+  width: 361px;
+}
+
+.doperaider-RAID-screen .WEAPON-BOX::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID-screen .overlap-group-31 {
+  height: 743px;
+  left: -238px;
+  position: relative;
+  top: -225px;
+  width: 743px;
+}
+
+.doperaider-RAID-screen .frame-77 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.2px;
+  left: 115px;
+  position: absolute;
+  top: 103px;
+  transform: rotate(-45deg);
+}
+
+.doperaider-RAID-screen .union-17 {
+  height: 201px;
+  mix-blend-mode: overlay;
+  position: relative;
+  transform: rotate(45deg);
+  width: 361px;
+}
+
+.doperaider-RAID-screen .rectangle-18 {
+  background-color: #737373;
+  height: 12px;
+  left: 235px;
+  position: absolute;
+  top: 421px;
+  width: 364px;
+}
+
+.doperaider-RAID-screen .rectangle-19 {
+  background-color: #00ff4f;
+  height: 12px;
+  left: 235px;
+  position: absolute;
+  top: 421px;
+  width: 135px;
+}
+
+.doperaider-RAID-screen .title {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border: none;
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 83px;
+  overflow: hidden;
+  padding: 4px 16px;
+  position: absolute;
+  top: 0;
+}
+
+.doperaider-RAID-screen .title::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(102, 102, 102, 1) 100%);
+  border-radius: 4px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.doperaider-RAID-screen .text-wrapper-161 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.doperaider-RAID-screen .WEAPON-3 {
+  height: 95px;
+  left: 27px;
+  position: absolute;
+  top: 54px;
+  width: 92px;
+}
+
+.doperaider-RAID-screen .overlap-57 {
+  background-image: url(../../../static/img/rectangle-4-2.svg);
+  background-size: 100% 100%;
+  height: 103px;
+  left: -4px;
+  position: relative;
+  width: 100px;
+}
+
+.doperaider-RAID-screen .rectangle-20 {
+  height: 85px;
+  left: 9px;
+  position: absolute;
+  top: 5px;
+  width: 82px;
+}
+
+.doperaider-RAID-screen .mask-group-5 {
+  height: 95px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 92px;
+}
+
+.doperaider-RAID-screen .pistol-3 {
+  height: 85px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 82px;
+}
+
+.doperaider-RAID-screen .WEAPON-4 {
+  display: block;
+  height: 95px;
+  left: 135px;
+  position: absolute;
+  top: 54px;
+  width: 92px;
+}
+
+.doperaider-RAID-screen .overlap-58 {
+  background-image: url(../../../static/img/rectangle-4-3.svg);
+  background-size: 100% 100%;
+  height: 103px;
+  left: -4px;
+  position: relative;
+  width: 100px;
+}
+
+.doperaider-RAID-screen .WEAPON-5 {
+  height: 95px;
+  left: 243px;
+  position: absolute;
+  top: 54px;
+  width: 92px;
+}
+
+.doperaider-RAID-screen .overlap-59 {
+  background-image: url(../../../static/img/rectangle-4-4.svg);
+  background-size: 100% 100%;
+  height: 103px;
+  left: -4px;
+  position: relative;
+  width: 100px;
+}
+
+.doperaider-RAID-screen .frame-78 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  left: 114px;
+  position: absolute;
+  top: 173px;
+}
+
+.doperaider-RAID-screen .text-wrapper-162 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.doperaider-RAID-screen .text-wrapper-163 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 140px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+  position: fixed;
+  text-align: center;
+  top: 58px;
+  white-space: nowrap;
+}

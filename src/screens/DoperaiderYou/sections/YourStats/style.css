@@ -1,0 +1,57 @@
+.YOUR-STATS {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #000000;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 250px;
+  width: 393px;
+}
+
+.YOUR-STATS .navbar {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  left: 22px;
+  position: absolute;
+  top: 12px;
+  width: 349px;
+}
+
+.YOUR-STATS .text-wrapper-149 {
+  color: #aeaeae;
+  display: block;
+  font-family: "Bangers", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.YOUR-STATS .text-wrapper-150 {
+  color: #ffffff;
+  display: block;
+  font-family: "Bangers", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.YOUR-STATS .rectangle-6 {
+  background-color: #ffaa22;
+  height: 3px;
+  left: 296px;
+  position: absolute;
+  top: 40px;
+  width: 68px;
+}

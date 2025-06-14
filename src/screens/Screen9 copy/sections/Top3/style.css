@@ -1,0 +1,96 @@
+.TOP-3 {
+  background: linear-gradient(
+    180deg,
+    rgba(48, 48, 48, 1) 0%,
+    rgba(27, 27, 27, 1) 100%
+  );
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #000000;
+  height: 144px;
+  left: 0;
+  position: fixed;
+  top: 1px;
+  width: 393px;
+}
+
+.TOP-3 .icon-64 {
+  background-image: url(../../../../../static/img/ellipse-4-24.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 245px;
+  position: absolute;
+  top: 104px;
+  width: 32px;
+}
+
+.TOP-3 .element-hga-2 {
+  height: 19px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+
+.TOP-3 .icon-65 {
+  background-image: url(../../../../../static/img/ellipse-4-25.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 289px;
+  position: absolute;
+  top: 104px;
+  width: 32px;
+}
+
+.TOP-3 .vector-10 {
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 17px;
+}
+
+.TOP-3 .icon-66 {
+  background-image: url(../../../../../static/img/ellipse-4-26.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 333px;
+  position: absolute;
+  top: 103px;
+  width: 32px;
+}
+
+.TOP-3 .vector-11 {
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: 5px;
+  width: 19px;
+}
+
+.TOP-3 .text-wrapper-138 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  white-space: nowrap;
+}
+
+.TOP-3 .text-wrapper-139 {
+  color: #ffffff;
+  font-family: "Bangers", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 171px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 57px;
+  white-space: nowrap;
+}

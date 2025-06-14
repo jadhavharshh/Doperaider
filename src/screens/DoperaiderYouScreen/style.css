@@ -1,0 +1,27 @@
+.doperaider-YOU-screen {
+  background-color: #000000;
+  height: 852px;
+  width: 393px;
+}
+
+.doperaider-YOU-screen .overlap-56 {
+  height: 852px;
+  position: relative;
+}
+
+.doperaider-YOU-screen .telegram-cloud-photo-2 {
+  height: 729px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 123px;
+  width: 393px;
+}
+
+.doperaider-YOU-screen .LOGO-2 {
+  height: 28px;
+  left: 118px;
+  position: absolute;
+  top: 60px;
+  width: 157px;
+}

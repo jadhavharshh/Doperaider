@@ -1,0 +1,185 @@
+.SUPPLY-SECTION {
+  height: 160px;
+  left: 327px;
+  position: absolute;
+  top: 195px;
+  width: 294px;
+}
+
+.SUPPLY-SECTION .overlap-3 {
+  height: 160px;
+  position: relative;
+}
+
+.SUPPLY-SECTION .coke-supply {
+  background-color: #00000080;
+  border: 1px solid;
+  border-color: #ffffff66;
+  border-radius: 4px;
+  height: 160px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.SUPPLY-SECTION .text-wrapper-36 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.SUPPLY-SECTION .text-wrapper-37 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  white-space: nowrap;
+}
+
+.SUPPLY-SECTION .text-wrapper-38 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.SUPPLY-SECTION .text-wrapper-39 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 115px;
+  white-space: nowrap;
+}
+
+.SUPPLY-SECTION .overlap-group-5 {
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 68px;
+  width: 118px;
+}
+
+.SUPPLY-SECTION .line-3 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 118px;
+}
+
+.SUPPLY-SECTION .icon-15 {
+  background-image: url(../../../../../static/img/ellipse-4-6.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 47px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.SUPPLY-SECTION .vector-5 {
+  height: 15px;
+  left: 6px;
+  position: absolute;
+  top: 5px;
+  width: 13px;
+}
+
+.SUPPLY-SECTION .weed-supply {
+  background-color: #00000080;
+  border: 1px solid;
+  border-color: #ffffff66;
+  border-radius: 4px;
+  height: 160px;
+  left: 174px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.SUPPLY-SECTION .text-wrapper-40 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.SUPPLY-SECTION .text-wrapper-41 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 115px;
+  white-space: nowrap;
+}
+
+.SUPPLY-SECTION .icon-16 {
+  background-image: url(../../../../../static/img/ellipse-4-7.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 47px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.SUPPLY-SECTION .vector-6 {
+  height: 15px;
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: 14px;
+}
+
+.SUPPLY-SECTION .FLAG {
+  height: 64px;
+  left: 115px;
+  position: absolute;
+  top: 48px;
+  width: 64px;
+}

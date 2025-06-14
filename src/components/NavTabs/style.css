@@ -1,0 +1,188 @@
+.NAV-TABS {
+  background-color: #000000;
+  height: 80px;
+  width: 393px;
+}
+
+.NAV-TABS .NAV-8 {
+  height: 61px;
+  left: 15px;
+  position: relative;
+  top: 9px;
+  width: 364px;
+}
+
+.NAV-TABS .nav-9 {
+  align-items: center;
+  display: flex;
+  left: -15px;
+  position: relative;
+  top: -9px;
+  width: 393px;
+}
+
+.NAV-TABS .div-23 {
+  border-color: transparent;
+  border-image: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(153, 153, 153, 0.43) 100%
+    )
+    1;
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: block;
+  height: 80px;
+  position: relative;
+  width: 79px;
+}
+
+.NAV-TABS .text-wrapper-236 {
+  color: #aaaaaa;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.NAV-TABS .icon-109 {
+  height: 34px;
+  left: 22px;
+  position: absolute;
+  top: 15px;
+  width: 35px;
+}
+
+.NAV-TABS .text-wrapper-237 {
+  color: #aaaaaa;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.NAV-TABS .icon-110 {
+  height: 36px;
+  left: 21px;
+  position: absolute;
+  top: 13px;
+  width: 37px;
+}
+
+.NAV-TABS .layer-33 {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 36px;
+}
+
+.NAV-TABS .text-wrapper-238 {
+  color: #aaaaaa;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.NAV-TABS .icon-111 {
+  height: 43px;
+  left: 18px;
+  position: absolute;
+  top: 10px;
+  width: 44px;
+}
+
+.NAV-TABS .layer-34 {
+  height: 32px;
+  left: 2px;
+  position: absolute;
+  top: 6px;
+  width: 40px;
+}
+
+.NAV-TABS .MAP {
+  background: linear-gradient(
+    180deg,
+    rgba(28, 28, 28, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  border-color: transparent;
+  border-image: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(153, 153, 153, 0.43) 100%
+    )
+    1;
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: block;
+  height: 80px;
+  position: relative;
+  width: 79px;
+}
+
+.NAV-TABS .text-wrapper-239 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.NAV-TABS .RAID-9 {
+  border-color: transparent;
+  border-image: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(153, 153, 153, 0.43) 100%
+    )
+    1;
+  border-right-style: solid;
+  border-right-width: 1px;
+  height: 80px;
+  margin-right: -2.00px;
+  position: relative;
+  width: 79px;
+}
+
+.NAV-TABS .text-wrapper-240 {
+  color: #aaaaaa;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.NAV-TABS .icon-112 {
+  height: 34px;
+  left: 21px;
+  position: absolute;
+  top: 15px;
+  width: 37px;
+}

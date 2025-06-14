@@ -1,0 +1,520 @@
+.group {
+  height: 237px;
+  left: 293px;
+  position: absolute;
+  top: 422px;
+  width: 361px;
+}
+
+.group .MARKET-PRICES-5 {
+  background-color: #00000080;
+  border: 0.5px solid;
+  border-color: #ffffff66;
+  border-radius: 4px;
+  height: 136px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 361px;
+}
+
+.group .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.group .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 146px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.group .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 213px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.group .line-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 46px;
+  width: 361px;
+}
+
+.group .overlap-group-3 {
+  height: 38px;
+  left: 16px;
+  position: absolute;
+  top: 52px;
+  width: 329px;
+}
+
+.group .COKE-2 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.group .text-wrapper-19 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.group .text-wrapper-20 {
+  color: #5bff8e;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 125px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.group .text-wrapper-21 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 195px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.group .icon-4 {
+  background-image: url(../../../../../static/img/ellipse-4-2.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+
+.group .vector-3 {
+  height: 15px;
+  left: 6px;
+  position: absolute;
+  top: 5px;
+  width: 13px;
+}
+
+.group .trade-3 {
+  align-items: center;
+  background: linear-gradient(
+    0deg,
+    rgba(16, 52, 29, 1) 0%,
+    rgba(49, 137, 82, 1) 100%
+  );
+  border: none;
+  border-radius: 74px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 281px;
+  overflow: hidden;
+  padding: 8px;
+  position: absolute;
+  top: 4px;
+}
+
+.group .trade-3::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    0deg,
+    rgba(118, 227, 157, 1) 0%,
+    rgba(107, 186, 28, 1) 100%
+  );
+  border-radius: 74px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.group .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: -0.36px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.group .WEED-2 {
+  height: 38px;
+  left: 16px;
+  position: absolute;
+  top: 90px;
+  width: 329px;
+}
+
+.group .text-wrapper-23 {
+  color: #ff5353;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 125px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.group .icon-5 {
+  background-image: url(../../../../../static/img/ellipse-4-3.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+
+.group .vector-4 {
+  height: 15px;
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: 14px;
+}
+
+.group .MARKET-PRICES-6 {
+  background-color: #00000080;
+  border: 0.5px solid;
+  border-color: #ffffff66;
+  border-radius: 4px;
+  height: 93px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 144px;
+  width: 361px;
+}
+
+.group .SEEDS {
+  height: 38px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 329px;
+}
+
+.group .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 125px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.group .layer-wrapper {
+  background-image: url(../../../../../static/img/ellipse-4-4.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+
+.group .layer-3 {
+  height: 13px;
+  left: 7px;
+  position: absolute;
+  top: 5px;
+  width: 10px;
+}
+
+.group .trade-4 {
+  align-items: center;
+  background: linear-gradient(
+    0deg,
+    rgba(16, 52, 29, 1) 0%,
+    rgba(49, 137, 82, 1) 100%
+  );
+  border: none;
+  border-radius: 74px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 265px;
+  overflow: hidden;
+  padding: 8px;
+  position: absolute;
+  top: 4px;
+}
+
+.group .trade-4::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    0deg,
+    rgba(118, 227, 157, 1) 0%,
+    rgba(107, 186, 28, 1) 100%
+  );
+  border-radius: 74px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.group .trade-5 {
+  align-items: center;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(102, 102, 102, 1) 100%
+  );
+  border: none;
+  border-radius: 74px;
+  display: inline-flex;
+  gap: 4px;
+  justify-content: center;
+  left: 177px;
+  overflow: hidden;
+  padding: 3px;
+  position: absolute;
+  top: 4px;
+}
+
+.group .trade-5::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(102, 102, 102, 1) 100%
+  );
+  border-radius: 74px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.group .polygon-wrapper {
+  border-radius: 12px;
+  height: 24px;
+  position: relative;
+  transform: rotate(180deg);
+  width: 24px;
+}
+
+.group .polygon {
+  height: 11px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-180deg);
+  width: 10px;
+}
+
+.group .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.group .polygon-wrapper-2 {
+  border-radius: 12px;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.group .polygon-2 {
+  height: 11px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 10px;
+}
+
+.group .CHEMICALS {
+  height: 38px;
+  left: 16px;
+  position: absolute;
+  top: 46px;
+  width: 329px;
+}
+
+.group .icon-6 {
+  background-image: url(../../../../../static/img/ellipse-4-5.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+
+.group .img-2 {
+  height: 12px;
+  left: 7px;
+  position: absolute;
+  top: 6px;
+  width: 10px;
+}
+
+.group .trade-6 {
+  align-items: center;
+  background: linear-gradient(
+    0deg,
+    rgba(16, 52, 29, 1) 0%,
+    rgba(49, 137, 82, 1) 100%
+  );
+  border: none;
+  border-radius: 74px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 259px;
+  overflow: hidden;
+  padding: 8px;
+  position: absolute;
+  top: 4px;
+}
+
+.group .trade-6::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    0deg,
+    rgba(118, 227, 157, 1) 0%,
+    rgba(107, 186, 28, 1) 100%
+  );
+  border-radius: 74px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.group .trade-7 {
+  align-items: center;
+  background: linear-gradient(
+    0deg,
+    rgba(16, 52, 29, 1) 0%,
+    rgba(49, 137, 82, 1) 100%
+  );
+  border: none;
+  border-radius: 74px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 294px;
+  overflow: hidden;
+  padding: 8px;
+  position: absolute;
+  top: -80px;
+}
+
+.group .trade-7::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    0deg,
+    rgba(118, 227, 157, 1) 0%,
+    rgba(107, 186, 28, 1) 100%
+  );
+  border-radius: 74px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.group .text-wrapper-26 {
+  color: #ffffff;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  width: fit-content;
+}
