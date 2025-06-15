@@ -64,14 +64,14 @@ export const Div = (): JSX.Element => {
           <div className="nav-3">
             <Link
               className="class-2"
-              to="/doperaider-u8212-you-u8212-inventory"
+              to="/you/inventory"
             >
               <div className="text-wrapper-74">YOU</div>
 
               <img className="icon-36" alt="Icon" src="/img/icon-31.svg" />
             </Link>
 
-            <Link className="class-2" to="/doperaider-u8212-market">
+            <Link className="class-2" to="/you/market">
               <div className="text-wrapper-75">MARKET</div>
 
               <div className="icon-37">
@@ -79,7 +79,7 @@ export const Div = (): JSX.Element => {
               </div>
             </Link>
 
-            <Link className="PRODUCE-2" to="/doperaider-u8212-production">
+            <Link className="PRODUCE-2" to="/you/production">
               <div className="text-wrapper-76">PRODUCE</div>
 
               <div className="icon-38">
@@ -91,7 +91,7 @@ export const Div = (): JSX.Element => {
               </div>
             </Link>
 
-            <Link className="class-2" to="/doperaider-u8212-map">
+            <Link className="class-2" to="/you/map">
               <div className="text-wrapper-77">MAP</div>
 
               <img className="icon-36" alt="Icon" src="/img/icon-32.svg" />

@@ -101,7 +101,7 @@ export const Popup = (): JSX.Element => {
           </div>
         </div>
 
-        <Link className="notif-icon-2" to="/doperaider-u8212-map">
+        <Link className="notif-icon-2" to="/you/map">
           <img className="union-2" alt="Union" src="/img/union-4.svg" />
         </Link>
 

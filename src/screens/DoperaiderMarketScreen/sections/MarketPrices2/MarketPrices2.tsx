@@ -28,7 +28,7 @@ export const MarketPrices2 = (): JSX.Element => {
 
         <Link
           className="trade-13"
-          to="/doperaider-u8212-market-u8212-trade-popup"
+          to="/you/market-u8212-trade-popup"
         >
           <div className="text-wrapper-113">TRADE</div>
         </Link>

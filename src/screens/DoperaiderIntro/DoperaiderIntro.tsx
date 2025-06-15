@@ -22,7 +22,7 @@ export const DoperaiderIntro = (): JSX.Element => {
           </div>
         </div>
 
-        <Link className="trade-3" to="/doperaider-u8212-you-u8212-inventory">
+        <Link className="trade-3" to="/you/inventory">
           <div className="text-wrapper-32">PLAY GAME</div>
         </Link>
 

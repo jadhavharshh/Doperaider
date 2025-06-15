@@ -8,13 +8,13 @@ export const BottomNav3 = (): JSX.Element => {
       <div className="NAV-TABS-6">
         <div className="NAV-5">
           <div className="nav-6">
-            <Link className="YOU-2" to="/doperaider-u8212-you-u8212-inventory">
+            <Link className="YOU-2" to="/you/inventory">
               <div className="text-wrapper-172">YOU</div>
 
               <div className="icon-76" />
             </Link>
 
-            <Link className="div-15" to="/doperaider-u8212-market">
+            <Link className="div-15" to="/you/market">
               <div className="text-wrapper-173">MARKET</div>
 
               <div className="icon-77">
@@ -22,7 +22,7 @@ export const BottomNav3 = (): JSX.Element => {
               </div>
             </Link>
 
-            <Link className="div-15" to="/doperaider-u8212-production">
+            <Link className="div-15" to="/you/production">
               <div className="text-wrapper-174">PRODUCE</div>
 
               <div className="icon-78">
@@ -34,7 +34,7 @@ export const BottomNav3 = (): JSX.Element => {
               </div>
             </Link>
 
-            <Link className="div-15" to="/doperaider-u8212-map">
+            <Link className="div-15" to="/you/map">
               <div className="text-wrapper-175">MAP</div>
 
               <img className="icon-79" alt="Icon" src="/img/icon-46.svg" />

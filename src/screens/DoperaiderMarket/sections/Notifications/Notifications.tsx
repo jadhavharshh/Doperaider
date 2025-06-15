@@ -80,7 +80,7 @@ export const Notifications = (): JSX.Element => {
           <div className="text-wrapper-52">TRADE</div>
         </div>
 
-        <Link className="CLOSE-ICON" to="/doperaider-u8212-market">
+        <Link className="CLOSE-ICON" to="/you/market">
           <img className="union-5" alt="Union" src="/img/union-4.svg" />
         </Link>
       </div>

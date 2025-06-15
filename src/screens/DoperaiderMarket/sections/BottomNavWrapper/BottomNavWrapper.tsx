@@ -62,13 +62,13 @@ export const BottomNavWrapper = (): JSX.Element => {
       <div className="NAV-wrapper">
         <div className="NAV">
           <div className="nav">
-            <Link className="div-4" to="/doperaider-u8212-you-u8212-inventory">
+            <Link className="div-4" to="/you/inventory">
               <div className="text-wrapper-31">YOU</div>
 
               <img className="icon-11" alt="Icon" src="/img/icon-19.svg" />
             </Link>
 
-            <Link className="MARKET" to="/doperaider-u8212-market">
+            <Link className="MARKET" to="/you/market">
               <div className="text-wrapper-32">MARKET</div>
 
               <div className="icon-12">
@@ -78,7 +78,7 @@ export const BottomNavWrapper = (): JSX.Element => {
               </div>
             </Link>
 
-            <Link className="div-4" to="/doperaider-u8212-production">
+            <Link className="div-4" to="/you/production">
               <div className="text-wrapper-33">PRODUCE</div>
 
               <div className="icon-13">
@@ -86,7 +86,7 @@ export const BottomNavWrapper = (): JSX.Element => {
               </div>
             </Link>
 
-            <Link className="div-4" to="/doperaider-u8212-map">
+            <Link className="div-4" to="/you/map">
               <div className="text-wrapper-34">MAP</div>
 
               <img className="icon-11" alt="Icon" src="/img/icon-20.svg" />

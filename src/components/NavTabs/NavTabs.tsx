@@ -29,13 +29,13 @@ export const NavTabs = ({
     <div className={`NAV-TABS ${className}`}>
       <div className="NAV-8">
         <div className="nav-9">
-          <Link className="div-23" to="/doperaider-u8212-you-u8212-inventory">
+          <Link className="div-23" to="/you/inventory">
             <div className="text-wrapper-236">YOU</div>
 
             <img className="icon-109" alt="Icon" src={icon} />
           </Link>
 
-          <Link className="div-23" to="/doperaider-u8212-market">
+          <Link className="div-23" to="/you/market">
             <div className="text-wrapper-237">MARKET</div>
 
             <div className="icon-110">
@@ -43,7 +43,7 @@ export const NavTabs = ({
             </div>
           </Link>
 
-          <Link className="div-23" to="/doperaider-u8212-production">
+          <Link className="div-23" to="/you/production">
             <div className="text-wrapper-238">PRODUCE</div>
 
             <div className="icon-111">
@@ -51,7 +51,7 @@ export const NavTabs = ({
             </div>
           </Link>
 
-          <Link className="MAP" to="/doperaider-u8212-map">
+          <Link className="MAP" to="/you/map">
             <div className="text-wrapper-239">MAP</div>
 
             <img className="icon-109" alt="Icon" src={img} />

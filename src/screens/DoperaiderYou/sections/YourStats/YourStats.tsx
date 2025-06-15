@@ -8,7 +8,7 @@ export const YourStats = (): JSX.Element => {
       <div className="navbar">
         <Link
           className="text-wrapper-149"
-          to="/doperaider-u8212-you-u8212-inventory"
+          to="/you/inventory"
         >
           INVENTORY
         </Link>

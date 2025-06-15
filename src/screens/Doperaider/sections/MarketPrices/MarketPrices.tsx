@@ -79,7 +79,7 @@ export const MarketPrices = (): JSX.Element => {
         <div className="grow-power-TIER">GROW POWER TIER 1</div>
       </div>
 
-      <Link className="trade-9" to="/doperaider-u8212-production">
+      <Link className="trade-9" to="/you/production">
         <div className="group-4">
           <div className="overlap-group-9">
             <img

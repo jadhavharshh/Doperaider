@@ -350,7 +350,7 @@ export const Upgrades = (): JSX.Element => {
 
             <Link
               className="trade-24"
-              to="/doperaider-u8212-production-u8212-weed-active"
+              to="/you/production-u8212-weed-active"
             >
               <div className="group-19">
                 <div className="mask-group-wrapper">

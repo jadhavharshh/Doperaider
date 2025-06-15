@@ -16,38 +16,36 @@ import { DoperaiderRaidScreen } from "./screens/DoperaiderRaidScreen";
 import { Screen8 } from "./screens/Screen8";
 import { DoperaiderRaidWrapper } from "./screens/DoperaiderRaidWrapper";
 import { DoperaiderAirdrop } from "./screens/DoperaiderAirdrop";
+import { TailwindTest } from "./components/TailwindTest";
 
 const router = createBrowserRouter([
-  {
-    path: "/*",
-    element: <DoperaiderMap />,
-  },
+
   {
     path: "/",
     element: <DoperaiderIntro />,
   },
   {
-    path: "/doperaider-u8212-map",
+    path: "/you/map",
     element: <DoperaiderMap />,
   },
   {
-    path: "/doperaider-u8212-map-u8211-chinatown-selected",
+    path: "/you/map-u8211-chinatown-selected",
     element: <DoperaiderMapScreen />,
   },
   {
-    path: "/doperaider-u8212-market-u8212-trade-popup",
+    path: "/you/market-u8212-trade-popup",
     element: <DoperaiderMarket />,
   },
   {
-    path: "/doperaider-u8212-production-u8212-weed-active",
+    path: "/you/production-u8212-weed-active",
     element: <Doperaider />,
   },
   {
-    path: "/doperaider-u8212-production",
+    path: "/you/production",
     element: <DoperaiderScreen />,
   },
   {
-    path: "/doperaider-u8212-market",
+    path: "/you/market",
     element: <DoperaiderMarketScreen />,
   },
   {
@@ -55,7 +53,7 @@ const router = createBrowserRouter([
     element: <DoperaiderYou />,
   },
   {
-    path: "/doperaider-u8212-you-u8212-inventory",
+    path: "/you/inventory",
     element: <DoperaiderYouScreen />,
   },
   {
@@ -89,6 +87,10 @@ const router = createBrowserRouter([
   {
     path: "/doperaider-u8212-airdrop",
     element: <DoperaiderAirdrop />,
+  },
+    {
+    path: "/*",
+    element: <DoperaiderIntro />,
   }
 ]);
 

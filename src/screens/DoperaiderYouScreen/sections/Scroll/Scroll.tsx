@@ -16,7 +16,7 @@ export const Scroll = (): JSX.Element => {
               </div>
             </div>
 
-            <Link className="div-13" to="/doperaider-u8212-you-u8212-inventory">
+            <Link className="div-13" to="/you/inventory">
               <div className="text-wrapper-160">VIBRATION</div>
 
               <div className="frame-38">

@@ -270,7 +270,7 @@ export const DoperaiderMap = (): JSX.Element => {
 
         <Link
           className="PIN-10"
-          to="/doperaider-u8212-map-u8211-chinatown-selected"
+          to="/you/map-u8211-chinatown-selected"
         >
           <div className="overlap-47">
             <div className="ellipse-29" />

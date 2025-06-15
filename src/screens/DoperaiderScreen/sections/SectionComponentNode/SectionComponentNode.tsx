@@ -47,7 +47,7 @@ export const SectionComponentNode = (): JSX.Element => {
 
       <Link
         className="trade-11"
-        to="/doperaider-u8212-production-u8212-weed-active"
+        to="/you/production-u8212-weed-active"
       >
         <div className="text-wrapper-83">GROW</div>
       </Link>
