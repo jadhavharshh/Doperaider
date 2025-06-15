@@ -157,7 +157,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-you-u8212-inventory",
         "trigger": {
-          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-you-u8212-inventory\">\n            <div className=\"text-wrapper-236\">YOU</div>\n\n            <img className=\"icon-109\" alt=\"Icon\" src={icon} />\n          </Link>",
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-you-u8212-inventory\">\r\n            <div className=\"text-wrapper-236\">YOU</div>\r\n\r\n            <img className=\"icon-109\" alt=\"Icon\" src={icon} />\r\n          </Link>",
           "line": 32,
           "endLine": 36,
           "column": 10,
@@ -173,7 +173,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-market",
         "trigger": {
-          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-market\">\n            <div className=\"text-wrapper-237\">MARKET</div>\n\n            <div className=\"icon-110\">\n              <img className=\"layer-33\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\n            </div>\n          </Link>",
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-market\">\r\n            <div className=\"text-wrapper-237\">MARKET</div>\r\n\r\n            <div className=\"icon-110\">\r\n              <img className=\"layer-33\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\r\n            </div>\r\n          </Link>",
           "line": 38,
           "endLine": 44,
           "column": 10,
@@ -189,7 +189,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-production",
         "trigger": {
-          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-production\">\n            <div className=\"text-wrapper-238\">PRODUCE</div>\n\n            <div className=\"icon-111\">\n              <img className=\"layer-34\" alt=\"Layer\" src={layer} />\n            </div>\n          </Link>",
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-production\">\r\n            <div className=\"text-wrapper-238\">PRODUCE</div>\r\n\r\n            <div className=\"icon-111\">\r\n              <img className=\"layer-34\" alt=\"Layer\" src={layer} />\r\n            </div>\r\n          </Link>",
           "line": 46,
           "endLine": 52,
           "column": 10,
@@ -205,7 +205,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-map",
         "trigger": {
-          "element": "<Link className=\"MAP\" to=\"/doperaider-u8212-map\">\n            <div className=\"text-wrapper-239\">MAP</div>\n\n            <img className=\"icon-109\" alt=\"Icon\" src={img} />\n          </Link>",
+          "element": "<Link className=\"MAP\" to=\"/doperaider-u8212-map\">\r\n            <div className=\"text-wrapper-239\">MAP</div>\r\n\r\n            <img className=\"icon-109\" alt=\"Icon\" src={img} />\r\n          </Link>",
           "line": 54,
           "endLine": 58,
           "column": 10,
@@ -237,7 +237,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-you-u8212-inventory",
         "trigger": {
-          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-you-u8212-inventory\">\n            <div className=\"text-wrapper-236\">YOU</div>\n\n            <img className=\"icon-109\" alt=\"Icon\" src={icon} />\n          </Link>",
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-you-u8212-inventory\">\r\n            <div className=\"text-wrapper-236\">YOU</div>\r\n\r\n            <img className=\"icon-109\" alt=\"Icon\" src={icon} />\r\n          </Link>",
           "line": 32,
           "endLine": 36,
           "column": 10,
@@ -253,7 +253,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-market",
         "trigger": {
-          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-market\">\n            <div className=\"text-wrapper-237\">MARKET</div>\n\n            <div className=\"icon-110\">\n              <img className=\"layer-33\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\n            </div>\n          </Link>",
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-market\">\r\n            <div className=\"text-wrapper-237\">MARKET</div>\r\n\r\n            <div className=\"icon-110\">\r\n              <img className=\"layer-33\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\r\n            </div>\r\n          </Link>",
           "line": 38,
           "endLine": 44,
           "column": 10,
@@ -269,7 +269,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-production",
         "trigger": {
-          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-production\">\n            <div className=\"text-wrapper-238\">PRODUCE</div>\n\n            <div className=\"icon-111\">\n              <img className=\"layer-34\" alt=\"Layer\" src={layer} />\n            </div>\n          </Link>",
+          "element": "<Link className=\"div-23\" to=\"/doperaider-u8212-production\">\r\n            <div className=\"text-wrapper-238\">PRODUCE</div>\r\n\r\n            <div className=\"icon-111\">\r\n              <img className=\"layer-34\" alt=\"Layer\" src={layer} />\r\n            </div>\r\n          </Link>",
           "line": 46,
           "endLine": 52,
           "column": 10,
@@ -285,7 +285,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-map",
         "trigger": {
-          "element": "<Link className=\"MAP\" to=\"/doperaider-u8212-map\">\n            <div className=\"text-wrapper-239\">MAP</div>\n\n            <img className=\"icon-109\" alt=\"Icon\" src={img} />\n          </Link>",
+          "element": "<Link className=\"MAP\" to=\"/doperaider-u8212-map\">\r\n            <div className=\"text-wrapper-239\">MAP</div>\r\n\r\n            <img className=\"icon-109\" alt=\"Icon\" src={img} />\r\n          </Link>",
           "line": 54,
           "endLine": 58,
           "column": 10,
@@ -1085,7 +1085,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-raid-u8212-active-raid-u8212-win",
         "trigger": {
-          "element": "<Link\n            className=\"WEAPON-4\"\n            to=\"/doperaider-u8212-raid-u8212-active-raid-u8212-win\"\n          >\n            <div className=\"overlap-58\">\n              <img\n                className=\"rectangle-20\"\n                alt=\"Rectangle\"\n                src=\"/img/rectangle-7-3.svg\"\n              />\n\n              <img\n                className=\"mask-group-5\"\n                alt=\"Mask group\"\n                src=\"/img/mask-group-4.png\"\n              />\n\n              <img\n                className=\"pistol-3\"\n                alt=\"Pistol\"\n                src=\"/img/pistol-1-3.png\"\n              />\n            </div>\n          </Link>",
+          "element": "<Link\r\n            className=\"WEAPON-4\"\r\n            to=\"/doperaider-u8212-raid-u8212-active-raid-u8212-win\"\r\n          >\r\n            <div className=\"overlap-58\">\r\n              <img\r\n                className=\"rectangle-20\"\r\n                alt=\"Rectangle\"\r\n                src=\"/img/rectangle-7-3.svg\"\r\n              />\r\n\r\n              <img\r\n                className=\"mask-group-5\"\r\n                alt=\"Mask group\"\r\n                src=\"/img/mask-group-4.png\"\r\n              />\r\n\r\n              <img\r\n                className=\"pistol-3\"\r\n                alt=\"Pistol\"\r\n                src=\"/img/pistol-1-3.png\"\r\n              />\r\n            </div>\r\n          </Link>",
           "line": 166,
           "endLine": 189,
           "column": 10,
@@ -1101,7 +1101,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-raid-u8212-active-raid-u8212-win",
         "trigger": {
-          "element": "<Link\n          className=\"WEAPON-2\"\n          to=\"/doperaider-u8212-raid-u8212-active-raid-u8212-win\"\n        >\n          <div className=\"overlap-50\">\n            <img\n              className=\"rectangle-15\"\n              alt=\"Rectangle\"\n              src=\"/img/rectangle-4-1.svg\"\n            />\n\n            <img\n              className=\"rectangle-16\"\n              alt=\"Rectangle\"\n              src=\"/img/rectangle-7-1.svg\"\n            />\n\n            <img\n              className=\"mask-group-4\"\n              alt=\"Mask group\"\n              src=\"/img/mask-group-1.png\"\n            />\n\n            <img className=\"pistol-2\" alt=\"Pistol\" src=\"/img/pistol-1-1.png\" />\n          </div>\n        </Link>",
+          "element": "<Link\r\n          className=\"WEAPON-2\"\r\n          to=\"/doperaider-u8212-raid-u8212-active-raid-u8212-win\"\r\n        >\r\n          <div className=\"overlap-50\">\r\n            <img\r\n              className=\"rectangle-15\"\r\n              alt=\"Rectangle\"\r\n              src=\"/img/rectangle-4-1.svg\"\r\n            />\r\n\r\n            <img\r\n              className=\"rectangle-16\"\r\n              alt=\"Rectangle\"\r\n              src=\"/img/rectangle-7-1.svg\"\r\n            />\r\n\r\n            <img\r\n              className=\"mask-group-4\"\r\n              alt=\"Mask group\"\r\n              src=\"/img/mask-group-1.png\"\r\n            />\r\n\r\n            <img className=\"pistol-2\" alt=\"Pistol\" src=\"/img/pistol-1-1.png\" />\r\n          </div>\r\n        </Link>",
           "line": 163,
           "endLine": 188,
           "column": 8,
@@ -1117,7 +1117,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-raid",
         "trigger": {
-          "element": "<Link className=\"text-wrapper-151\" to=\"/doperaider-u8212-raid\">\n          CLOSING in 5 SECONDS...\n        </Link>",
+          "element": "<Link className=\"text-wrapper-151\" to=\"/doperaider-u8212-raid\">\r\n          CLOSING in 5 SECONDS...\r\n        </Link>",
           "line": 190,
           "endLine": 192,
           "column": 8,
@@ -1181,7 +1181,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-raid-u8212-selected-player",
         "trigger": {
-          "element": "<Link\n          className=\"frame-41\"\n          to=\"/doperaider-u8212-raid-u8212-selected-player\"\n        >\n          <div className=\"overlap-group-16\">\n            <div className=\"frame-42\">\n              <div className=\"frame-43\">\n                <div className=\"profile-pic-9\" />\n\n                <div className=\"frame-44\">\n                  <img\n                    className=\"ellipse-19\"\n                    alt=\"Ellipse\"\n                    src=\"/img/ellipse-15-9.svg\"\n                  />\n\n                  <div className=\"text-wrapper-85\">TONY MONTANA</div>\n                </div>\n              </div>\n\n              <div className=\"stats-5\">\n                <div className=\"respect-5\">\n                  <div className=\"text-wrapper-86\">94</div>\n                </div>\n\n                <div className=\"coke-5\">\n                  <div className=\"text-wrapper-86\">0</div>\n                </div>\n\n                <div className=\"weed-7\">\n                  <div className=\"text-wrapper-86\">49</div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </Link>",
+          "element": "<Link\r\n          className=\"frame-41\"\r\n          to=\"/doperaider-u8212-raid-u8212-selected-player\"\r\n        >\r\n          <div className=\"overlap-group-16\">\r\n            <div className=\"frame-42\">\r\n              <div className=\"frame-43\">\r\n                <div className=\"profile-pic-9\" />\r\n\r\n                <div className=\"frame-44\">\r\n                  <img\r\n                    className=\"ellipse-19\"\r\n                    alt=\"Ellipse\"\r\n                    src=\"/img/ellipse-15-9.svg\"\r\n                  />\r\n\r\n                  <div className=\"text-wrapper-85\">TONY MONTANA</div>\r\n                </div>\r\n              </div>\r\n\r\n              <div className=\"stats-5\">\r\n                <div className=\"respect-5\">\r\n                  <div className=\"text-wrapper-86\">94</div>\r\n                </div>\r\n\r\n                <div className=\"coke-5\">\r\n                  <div className=\"text-wrapper-86\">0</div>\r\n                </div>\r\n\r\n                <div className=\"weed-7\">\r\n                  <div className=\"text-wrapper-86\">49</div>\r\n                </div>\r\n              </div>\r\n            </div>\r\n          </div>\r\n        </Link>",
           "line": 9,
           "endLine": 44,
           "column": 8,
@@ -1197,7 +1197,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-raid",
         "trigger": {
-          "element": "<Link className=\"frame-45\" to=\"/doperaider-u8212-raid\">\n          <div className=\"overlap-25\">\n            <img\n              className=\"organic-grunge-bold-5\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-26.svg\"\n            />\n\n            <div className=\"trade-6\">\n              <div className=\"group-7\">\n                <div className=\"overlap-group-17\">\n                  <img\n                    className=\"mask-group-2\"\n                    alt=\"Mask group\"\n                    src=\"/img/mask-group-11.png\"\n                  />\n                </div>\n              </div>\n\n              <div className=\"PROTECTED\">\n                PROTECTED\n                <br />\n                15mins 23secs\n              </div>\n            </div>\n\n            <div className=\"WIN-STATS-4\">\n              <div className=\"overlap-26\">\n                <div className=\"raids-4\">\n                  <div className=\"overlap-group-18\">\n                    <div className=\"frame-46\">\n                      <img\n                        className=\"union-10\"\n                        alt=\"Union\"\n                        src=\"/img/union-16.svg\"\n                      />\n                    </div>\n\n                    <div className=\"text-wrapper-87\">RAIDS</div>\n\n                    <div className=\"text-wrapper-88\">4</div>\n                  </div>\n                </div>\n\n                <div className=\"losses-4\">\n                  <div className=\"overlap-27\">\n                    <div className=\"frame-47\">\n                      <img\n                        className=\"union-11\"\n                        alt=\"Union\"\n                        src=\"/img/union-17.svg\"\n                      />\n                    </div>\n\n                    <div className=\"text-wrapper-89\">LOSSES</div>\n\n                    <div className=\"text-wrapper-90\">1</div>\n                  </div>\n                </div>\n\n                <div className=\"wins-4\">\n                  <div className=\"overlap-28\">\n                    <div className=\"frame-46\">\n                      <img\n                        className=\"union-10\"\n                        alt=\"Union\"\n                        src=\"/img/union-18.svg\"\n                      />\n                    </div>\n\n                    <div className=\"ellipse-20\" />\n\n                    <div className=\"text-wrapper-91\">WINS</div>\n\n                    <div className=\"text-wrapper-92\">3</div>\n                  </div>\n                </div>\n              </div>\n            </div>\n\n            <img\n              className=\"organic-grunge-bold-6\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-27.svg\"\n            />\n\n            <div className=\"frame-48\">\n              <div className=\"frame-43\">\n                <div className=\"profile-pic-10\" />\n\n                <div className=\"frame-44\">\n                  <img\n                    className=\"ellipse-19\"\n                    alt=\"Ellipse\"\n                    src=\"/img/ellipse-15-10.svg\"\n                  />\n\n                  <div className=\"text-wrapper-85\">SONNY BLACK</div>\n                </div>\n              </div>\n\n              <div className=\"stats-5\">\n                <div className=\"respect-5\">\n                  <div className=\"text-wrapper-86\">60</div>\n                </div>\n\n                <div className=\"coke-5\">\n                  <div className=\"text-wrapper-86\">12</div>\n                </div>\n\n                <div className=\"weed-7\">\n                  <div className=\"text-wrapper-86\">48</div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </Link>",
+          "element": "<Link className=\"frame-45\" to=\"/doperaider-u8212-raid\">\r\n          <div className=\"overlap-25\">\r\n            <img\r\n              className=\"organic-grunge-bold-5\"\r\n              alt=\"Organic grunge bold\"\r\n              src=\"/img/organic-grunge-bold-shapes-26.svg\"\r\n            />\r\n\r\n            <div className=\"trade-6\">\r\n              <div className=\"group-7\">\r\n                <div className=\"overlap-group-17\">\r\n                  <img\r\n                    className=\"mask-group-2\"\r\n                    alt=\"Mask group\"\r\n                    src=\"/img/mask-group-11.png\"\r\n                  />\r\n                </div>\r\n              </div>\r\n\r\n              <div className=\"PROTECTED\">\r\n                PROTECTED\r\n                <br />\r\n                15mins 23secs\r\n              </div>\r\n            </div>\r\n\r\n            <div className=\"WIN-STATS-4\">\r\n              <div className=\"overlap-26\">\r\n                <div className=\"raids-4\">\r\n                  <div className=\"overlap-group-18\">\r\n                    <div className=\"frame-46\">\r\n                      <img\r\n                        className=\"union-10\"\r\n                        alt=\"Union\"\r\n                        src=\"/img/union-16.svg\"\r\n                      />\r\n                    </div>\r\n\r\n                    <div className=\"text-wrapper-87\">RAIDS</div>\r\n\r\n                    <div className=\"text-wrapper-88\">4</div>\r\n                  </div>\r\n                </div>\r\n\r\n                <div className=\"losses-4\">\r\n                  <div className=\"overlap-27\">\r\n                    <div className=\"frame-47\">\r\n                      <img\r\n                        className=\"union-11\"\r\n                        alt=\"Union\"\r\n                        src=\"/img/union-17.svg\"\r\n                      />\r\n                    </div>\r\n\r\n                    <div className=\"text-wrapper-89\">LOSSES</div>\r\n\r\n                    <div className=\"text-wrapper-90\">1</div>\r\n                  </div>\r\n                </div>\r\n\r\n                <div className=\"wins-4\">\r\n                  <div className=\"overlap-28\">\r\n                    <div className=\"frame-46\">\r\n                      <img\r\n                        className=\"union-10\"\r\n                        alt=\"Union\"\r\n                        src=\"/img/union-18.svg\"\r\n                      />\r\n                    </div>\r\n\r\n                    <div className=\"ellipse-20\" />\r\n\r\n                    <div className=\"text-wrapper-91\">WINS</div>\r\n\r\n                    <div className=\"text-wrapper-92\">3</div>\r\n                  </div>\r\n                </div>\r\n              </div>\r\n            </div>\r\n\r\n            <img\r\n              className=\"organic-grunge-bold-6\"\r\n              alt=\"Organic grunge bold\"\r\n              src=\"/img/organic-grunge-bold-shapes-27.svg\"\r\n            />\r\n\r\n            <div className=\"frame-48\">\r\n              <div className=\"frame-43\">\r\n                <div className=\"profile-pic-10\" />\r\n\r\n                <div className=\"frame-44\">\r\n                  <img\r\n                    className=\"ellipse-19\"\r\n                    alt=\"Ellipse\"\r\n                    src=\"/img/ellipse-15-10.svg\"\r\n                  />\r\n\r\n                  <div className=\"text-wrapper-85\">SONNY BLACK</div>\r\n                </div>\r\n              </div>\r\n\r\n              <div className=\"stats-5\">\r\n                <div className=\"respect-5\">\r\n                  <div className=\"text-wrapper-86\">60</div>\r\n                </div>\r\n\r\n                <div className=\"coke-5\">\r\n                  <div className=\"text-wrapper-86\">12</div>\r\n                </div>\r\n\r\n                <div className=\"weed-7\">\r\n                  <div className=\"text-wrapper-86\">48</div>\r\n                </div>\r\n              </div>\r\n            </div>\r\n          </div>\r\n        </Link>",
           "line": 46,
           "endLine": 162,
           "column": 8,
@@ -1213,7 +1213,7 @@
       "data": {
         "viaRoute": "/doperaider-u8212-raid",
         "trigger": {
-          "element": "<Link className=\"RAID-4\" to=\"/doperaider-u8212-raid\">\n              <div className=\"text-wrapper-102\">RAID</div>\n\n              <img className=\"icon-43\" alt=\"Icon\" src=\"/img/icon-23.svg\" />\n            </Link>",
+          "element": "<Link className=\"RAID-4\" to=\"/doperaider-u8212-raid\">\r\n              <div className=\"text-wrapper-102\">RAID</div>\r\n\r\n              <img className=\"icon-43\" alt=\"Icon\" src=\"/img/icon-23.svg\" />\r\n            </Link>",
           "line": 101,
           "endLine": 105,
           "column": 12,
