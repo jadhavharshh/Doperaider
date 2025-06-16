@@ -3,6 +3,8 @@ import { BottomNav2 } from "./sections/BottomNav2";
 import { NewsWrapper } from "./sections/NewsWrapper";
 import { RaidListWrapper } from "./sections/RaidListWrapper";
 import { Top2 } from "./sections/Top2";
+import { NavTabs } from "../../components/NavTabs"; // Add this import
+
 import "./style.css";
 
 export const Screen8 = (): JSX.Element => {
@@ -12,17 +14,12 @@ export const Screen8 = (): JSX.Element => {
         <div className="overlap-group-38">
           <img className="image-4" alt="Image" src="/img/image-7.png" />
 
-          <div className="rectangle-29" />
 
           <div className="ellipse-48" />
 
           <div className="ellipse-49" />
 
           <div className="ellipse-50" />
-
-          <div className="ellipse-51" />
-
-          <div className="ellipse-52" />
         </div>
       </div>
 
@@ -30,7 +27,7 @@ export const Screen8 = (): JSX.Element => {
       <div className="SHADOW-2" />
 
       <NewsWrapper />
-      <BottomNav2 />
+      <NavTabs />
       <Top2 />
     </div>
   );

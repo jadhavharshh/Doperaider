@@ -4,6 +4,7 @@ import { NewsWrapper } from "./sections/NewsWrapper";
 import { PlayersWrapper } from "./sections/PlayersWrapper";
 import { TopWrapper } from "./sections/TopWrapper";
 import "./style.css";
+import { NavTabs } from "../../components/NavTabs"; // Add this import
 
 export const Screen3 = (): JSX.Element => {
   return (
@@ -30,7 +31,7 @@ export const Screen3 = (): JSX.Element => {
       <div className="SHADOW-2" />
 
       <NewsWrapper />
-      <BottomNavWrapper />
+      <NavTabs />
       <TopWrapper />
     </div>
   );
