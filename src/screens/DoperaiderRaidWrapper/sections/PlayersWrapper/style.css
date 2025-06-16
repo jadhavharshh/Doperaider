@@ -9,8 +9,8 @@
 }
 
 .PLAYERS-wrapper .PLAYERS-2 {
-  align-items: flex-start;
-  display: flex;
+  /* align-items: flex-start; */
+  /* display: flex; */
   flex-direction: column;
   gap: 4px;
   position: relative;
