@@ -16,7 +16,10 @@ import { DoperaiderRaidScreen } from "./screens/DoperaiderRaidScreen";
 import { Screen8 } from "./screens/Screen8";
 import { DoperaiderRaidWrapper } from "./screens/DoperaiderRaidWrapper";
 import { DoperaiderAirdrop } from "./screens/DoperaiderAirdrop";
-import { TailwindTest } from "./components/TailwindTest";
+import { Screen3 } from "./screens/Screen3";
+import { RaidList } from "./screens/DoperaiderYouWrapper/sections/RaidList/RaidList";
+import { RaidListWrapper } from "./screens/Screen8/sections/RaidListWrapper/RaidListWrapper";
+
 
 const router = createBrowserRouter([
 
@@ -65,17 +68,10 @@ const router = createBrowserRouter([
     element: <Screen9 />,
   },
   {
-    path: "/doperaider-u8212-raid",
-    element: <Screen9 />,
-  },
-  {
     path: "/doperaider-u8212-raid-u8212-active-raid",
     element: <DoperaiderRaidScreen />,
   },
-  {
-    path: "/doperaider-u8212-raid-u8212-active-raid-u8212-win",
-    element: <DoperaiderRaid />,
-  },
+
   {
     path: "/doperaider-u8212-raid-u8212-selected-player",
     element: <Screen8 />,
@@ -91,7 +87,24 @@ const router = createBrowserRouter([
     {
     path: "/*",
     element: <DoperaiderIntro />,
-  }
+  },
+    {
+    path: "/doperaider-u8212-raid",
+    element: <DoperaiderRaidWrapper />,
+  },
+  {
+    path: "/doperaider-u8212-raid-u8212-active-raid-u8212-win",
+    element: <DoperaiderRaidScreen />,
+  },
+  {
+    path: "/doperaider-u8212-raid-u8212-active-raid",
+    element: <DoperaiderRaidWrapper />,
+  },
+  {
+    path: "/doperaider-u8212-raid-u8212-selected-player-u8212-protected",
+    element: <Screen3 />,
+  },
+
 ]);
 
 export const App = () => {

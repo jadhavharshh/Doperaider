@@ -1,4 +1,4 @@
-.doperaider-RAID-wrapper {
+.screen-4 {
   background-color: #ffffff;
   height: 852px;
   overflow: hidden;
@@ -6,7 +6,7 @@
   width: 393px;
 }
 
-.doperaider-RAID-wrapper .BG-4 {
+.screen-4 .BG-5 {
   height: 948px;
   left: -277px;
   position: fixed;
@@ -14,13 +14,13 @@
   width: 906px;
 }
 
-.doperaider-RAID-wrapper .overlap-group-37 {
+.screen-4 .overlap-group-16 {
   height: 944px;
   position: relative;
   top: 4px;
 }
 
-.doperaider-RAID-wrapper .image-3 {
+.screen-4 .image-5 {
   height: 774px;
   left: 277px;
   object-fit: cover;
@@ -29,7 +29,7 @@
   width: 393px;
 }
 
-.doperaider-RAID-wrapper .rectangle-28 {
+.screen-4 .rectangle-13 {
   background-color: #00000099;
   height: 874px;
   left: 262px;
@@ -38,7 +38,7 @@
   width: 426px;
 }
 
-.doperaider-RAID-wrapper .ellipse-43 {
+.screen-4 .ellipse-30 {
   background-color: #ffffff;
   border-radius: 114.5px/216.5px;
   filter: blur(27px);
@@ -50,7 +50,7 @@
   width: 229px;
 }
 
-.doperaider-RAID-wrapper .ellipse-44 {
+.screen-4 .ellipse-31 {
   background-color: #ffffff;
   border-radius: 58.5px/166.5px;
   filter: blur(27px);
@@ -62,7 +62,7 @@
   width: 117px;
 }
 
-.doperaider-RAID-wrapper .ellipse-45 {
+.screen-4 .ellipse-32 {
   background-color: #ffffff;
   border-radius: 63.5px/216.5px;
   filter: blur(27px);
@@ -74,7 +74,7 @@
   width: 127px;
 }
 
-.doperaider-RAID-wrapper .ellipse-46 {
+.screen-4 .ellipse-33 {
   background-color: #000000;
   border-radius: 203.24px/453.09px;
   filter: blur(27px);
@@ -88,7 +88,7 @@
   width: 406px;
 }
 
-.doperaider-RAID-wrapper .ellipse-47 {
+.screen-4 .ellipse-34 {
   background-color: #000000;
   border-radius: 125px/279px;
   filter: blur(27px);
@@ -102,7 +102,7 @@
   width: 250px;
 }
 
-.doperaider-RAID-wrapper .SHADOW {
+.screen-4 .SHADOW-3 {
   background-color: #000000;
   border-radius: 65.5px/239px;
   filter: blur(27px);
@@ -113,13 +113,4 @@
   top: 490px;
   transform: rotate(90deg);
   width: 131px;
-}
-
-/* Position NavTabs at bottom for raid wrapper */
-.doperaider-RAID-wrapper .NAV-TABS {
-  position: absolute;  /* Changed from fixed to absolute */
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  z-index: 1000;
 }

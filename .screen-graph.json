@@ -1,23 +1,22 @@
 {
   "nodes": [
     {
-      "id": "src/screens/DoperaiderMap/DoperaiderMap.tsx",
-      "label": "DoperaiderMap",
-      "routes": [
-        "/*",
-        "/you/map"
-      ],
-      "dataModelId": "412:3173",
-      "isRoot": true
-    },
-    {
       "id": "src/screens/DoperaiderIntro/DoperaiderIntro.tsx",
       "label": "DoperaiderIntro",
       "routes": [
-        "/"
+        "/",
+        "/*"
       ],
       "dataModelId": "2004:1966",
       "isRoot": true
+    },
+    {
+      "id": "src/screens/DoperaiderMap/DoperaiderMap.tsx",
+      "label": "DoperaiderMap",
+      "routes": [
+        "/you/map"
+      ],
+      "dataModelId": "412:3173"
     },
     {
       "id": "src/screens/DoperaiderMapScreen/DoperaiderMapScreen.tsx",
@@ -87,26 +86,33 @@
       "id": "src/screens/Screen9 copy/Screen9.tsx",
       "label": "Screen9",
       "routes": [
-        "/doperaider-u8212-you-u8212-upgrades2",
-        "/doperaider-u8212-raid"
+        "/doperaider-u8212-you-u8212-upgrades2"
       ],
       "dataModelId": "412:3605"
-    },
-    {
-      "id": "src/screens/DoperaiderRaidScreen/DoperaiderRaidScreen.tsx",
-      "label": "DoperaiderRaidScreen",
-      "routes": [
-        "/doperaider-u8212-raid-u8212-active-raid"
-      ],
-      "dataModelId": "412:4883"
     },
     {
       "id": "src/screens/DoperaiderRaid/DoperaiderRaid.tsx",
       "label": "DoperaiderRaid",
       "routes": [
-        "/doperaider-u8212-raid-u8212-active-raid-u8212-win"
+        "/doperaider-u8212-raid"
       ],
       "dataModelId": "412:5097"
+    },
+    {
+      "id": "src/screens/DoperaiderRaidWrapper/DoperaiderRaidWrapper.tsx",
+      "label": "DoperaiderRaidWrapper",
+      "routes": [
+        "/doperaider-u8212-raid-u8212-active-raid"
+      ],
+      "dataModelId": "412:4429"
+    },
+    {
+      "id": "src/screens/DoperaiderRaidScreen/DoperaiderRaidScreen.tsx",
+      "label": "DoperaiderRaidScreen",
+      "routes": [
+        "/doperaider-u8212-raid-u8212-active-raid-u8212-win"
+      ],
+      "dataModelId": "412:4883"
     },
     {
       "id": "src/screens/Screen8/Screen8.tsx",
@@ -117,8 +123,8 @@
       "dataModelId": "412:3986"
     },
     {
-      "id": "src/screens/DoperaiderRaidWrapper/DoperaiderRaidWrapper.tsx",
-      "label": "DoperaiderRaidWrapper",
+      "id": "src/screens/Screen3/Screen3.tsx",
+      "label": "Screen3",
       "routes": [
         "/doperaider-u8212-raid-u8212-selected-player-u8212-protected"
       ],
@@ -134,6 +140,22 @@
     }
   ],
   "edges": [
+    {
+      "id": "src\\screens\\DoperaiderIntro\\DoperaiderIntro.tsx:25:8-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderIntro\\DoperaiderIntro.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/you/inventory",
+        "trigger": {
+          "element": "<Link className=\"trade-3\" to=\"/you/inventory\">\n          <div className=\"text-wrapper-32\">PLAY GAME</div>\n        </Link>",
+          "line": 25,
+          "endLine": 27,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\DoperaiderIntro\\DoperaiderIntro.tsx"
+        }
+      }
+    },
     {
       "id": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx:271:8-to-src\\screens\\DoperaiderMapScreen\\DoperaiderMapScreen.tsx",
       "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
@@ -215,18 +237,18 @@
       }
     },
     {
-      "id": "src\\screens\\DoperaiderIntro\\DoperaiderIntro.tsx:25:8-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
-      "source": "src\\screens\\DoperaiderIntro\\DoperaiderIntro.tsx",
-      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:60:10-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
       "data": {
-        "viaRoute": "/you/inventory",
+        "viaRoute": "/doperaider-u8212-raid",
         "trigger": {
-          "element": "<Link className=\"trade-3\" to=\"/you/inventory\">\n          <div className=\"text-wrapper-32\">PLAY GAME</div>\n        </Link>",
-          "line": 25,
-          "endLine": 27,
-          "column": 8,
-          "endColumn": 15,
-          "sourceFile": "src\\screens\\DoperaiderIntro\\DoperaiderIntro.tsx"
+          "element": "<Link className=\"RAID-9\" to=\"/doperaider-u8212-raid\">\r\n  <div className=\"text-wrapper-240\">RAID</div>\r\n  <img className=\"icon-112\" alt=\"Icon\" src={icon1} />\r\n</Link>",
+          "line": 60,
+          "endLine": 63,
+          "column": 10,
+          "endColumn": 7,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
         }
       }
     },
@@ -290,6 +312,22 @@
           "endLine": 58,
           "column": 10,
           "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:60:10-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid",
+        "trigger": {
+          "element": "<Link className=\"RAID-9\" to=\"/doperaider-u8212-raid\">\r\n  <div className=\"text-wrapper-240\">RAID</div>\r\n  <img className=\"icon-112\" alt=\"Icon\" src={icon1} />\r\n</Link>",
+          "line": 60,
+          "endLine": 63,
+          "column": 10,
+          "endColumn": 7,
           "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
         }
       }
@@ -1047,9 +1085,9 @@
       }
     },
     {
-      "id": "src\\screens\\Screen9 copy\\sections\\RaidList1\\RaidList1.tsx:46:8-to-src\\screens\\DoperaiderRaidWrapper\\DoperaiderRaidWrapper.tsx",
+      "id": "src\\screens\\Screen9 copy\\sections\\RaidList1\\RaidList1.tsx:46:8-to-src\\screens\\Screen3\\Screen3.tsx",
       "source": "src\\screens\\Screen9 copy\\Screen9.tsx",
-      "target": "src\\screens\\DoperaiderRaidWrapper\\DoperaiderRaidWrapper.tsx",
+      "target": "src\\screens\\Screen3\\Screen3.tsx",
       "data": {
         "viaRoute": "/doperaider-u8212-raid-u8212-selected-player-u8212-protected",
         "trigger": {
@@ -1063,9 +1101,9 @@
       }
     },
     {
-      "id": "src\\screens\\Screen9 copy\\sections\\BottomNav3\\BottomNav3.tsx:101:12-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "id": "src\\screens\\Screen9 copy\\sections\\BottomNav3\\BottomNav3.tsx:101:12-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
       "source": "src\\screens\\Screen9 copy\\Screen9.tsx",
-      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
       "data": {
         "viaRoute": "/doperaider-u8212-raid",
         "trigger": {
@@ -1079,25 +1117,9 @@
       }
     },
     {
-      "id": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx:166:10-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
-      "source": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx",
-      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
-      "data": {
-        "viaRoute": "/doperaider-u8212-raid-u8212-active-raid-u8212-win",
-        "trigger": {
-          "element": "<Link\r\n            className=\"WEAPON-4\"\r\n            to=\"/doperaider-u8212-raid-u8212-active-raid-u8212-win\"\r\n          >\r\n            <div className=\"overlap-58\">\r\n              <img\r\n                className=\"rectangle-20\"\r\n                alt=\"Rectangle\"\r\n                src=\"/img/rectangle-7-3.svg\"\r\n              />\r\n\r\n              <img\r\n                className=\"mask-group-5\"\r\n                alt=\"Mask group\"\r\n                src=\"/img/mask-group-4.png\"\r\n              />\r\n\r\n              <img\r\n                className=\"pistol-3\"\r\n                alt=\"Pistol\"\r\n                src=\"/img/pistol-1-3.png\"\r\n              />\r\n            </div>\r\n          </Link>",
-          "line": 166,
-          "endLine": 189,
-          "column": 10,
-          "endColumn": 17,
-          "sourceFile": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx"
-        }
-      }
-    },
-    {
-      "id": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx:163:8-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "id": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx:163:8-to-src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx",
       "source": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
-      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "target": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx",
       "data": {
         "viaRoute": "/doperaider-u8212-raid-u8212-active-raid-u8212-win",
         "trigger": {
@@ -1111,9 +1133,9 @@
       }
     },
     {
-      "id": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx:190:8-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "id": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx:190:8-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
       "source": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
-      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
       "data": {
         "viaRoute": "/doperaider-u8212-raid",
         "trigger": {
@@ -1123,54 +1145,6 @@
           "column": 8,
           "endColumn": 15,
           "sourceFile": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx"
-        }
-      }
-    },
-    {
-      "id": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx:9:8-to-src\\screens\\Screen9 copy\\Screen9.tsx",
-      "source": "src\\screens\\Screen8\\Screen8.tsx",
-      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
-      "data": {
-        "viaRoute": "/doperaider-u8212-raid",
-        "trigger": {
-          "element": "<Link className=\"frame-50\" to=\"/doperaider-u8212-raid\">\n          <div className=\"overlap-32\">\n            <img\n              className=\"organic-grunge-bold-7\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-48.svg\"\n            />\n\n            <Link\n              className=\"trade-7\"\n              to=\"/doperaider-u8212-raid-u8212-active-raid\"\n            >\n              <div className=\"text-wrapper-105\">RAID $0.25</div>\n            </Link>\n\n            <div className=\"WIN-STATS-5\">\n              <div className=\"overlap-33\">\n                <div className=\"raids-5\">\n                  <div className=\"overlap-group-20\">\n                    <div className=\"text-wrapper-106\">RAIDS</div>\n\n                    <div className=\"text-wrapper-107\">5</div>\n\n                    <div className=\"frame-51\">\n                      <img\n                        className=\"union-12\"\n                        alt=\"Union\"\n                        src=\"/img/union-19.svg\"\n                      />\n                    </div>\n                  </div>\n                </div>\n\n                <div className=\"losses-5\">\n                  <div className=\"overlap-34\">\n                    <div className=\"text-wrapper-108\">LOSSES</div>\n\n                    <div className=\"text-wrapper-109\">2</div>\n\n                    <div className=\"frame-52\">\n                      <img\n                        className=\"union-13\"\n                        alt=\"Union\"\n                        src=\"/img/union-20.svg\"\n                      />\n                    </div>\n                  </div>\n                </div>\n\n                <div className=\"wins-5\">\n                  <div className=\"overlap-35\">\n                    <div className=\"frame-51\">\n                      <img\n                        className=\"union-12\"\n                        alt=\"Union\"\n                        src=\"/img/union-21.svg\"\n                      />\n                    </div>\n\n                    <div className=\"ellipse-21\" />\n\n                    <div className=\"text-wrapper-110\">WINS</div>\n\n                    <div className=\"text-wrapper-111\">3</div>\n                  </div>\n                </div>\n              </div>\n            </div>\n\n            <img\n              className=\"organic-grunge-bold-8\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-49.svg\"\n            />\n\n            <div className=\"frame-53\">\n              <div className=\"frame-54\">\n                <div className=\"profile-pic-15\" />\n\n                <div className=\"frame-55\">\n                  <img\n                    className=\"ellipse-22\"\n                    alt=\"Ellipse\"\n                    src=\"/img/ellipse-15-18.svg\"\n                  />\n\n                  <div className=\"text-wrapper-112\">TONY MONTANA</div>\n                </div>\n              </div>\n\n              <div className=\"stats-7\">\n                <div className=\"respect-7\">\n                  <div className=\"text-wrapper-113\">94</div>\n                </div>\n\n                <div className=\"coke-7\">\n                  <div className=\"text-wrapper-113\">0</div>\n                </div>\n\n                <div className=\"weed-9\">\n                  <div className=\"text-wrapper-113\">49</div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </Link>",
-          "line": 9,
-          "endLine": 114,
-          "column": 8,
-          "endColumn": 15,
-          "sourceFile": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx"
-        }
-      }
-    },
-    {
-      "id": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx:17:12-to-src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx",
-      "source": "src\\screens\\Screen8\\Screen8.tsx",
-      "target": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx",
-      "data": {
-        "viaRoute": "/doperaider-u8212-raid-u8212-active-raid",
-        "trigger": {
-          "element": "<Link\n              className=\"trade-7\"\n              to=\"/doperaider-u8212-raid-u8212-active-raid\"\n            >\n              <div className=\"text-wrapper-105\">RAID $0.25</div>\n            </Link>",
-          "line": 17,
-          "endLine": 22,
-          "column": 12,
-          "endColumn": 19,
-          "sourceFile": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx"
-        }
-      }
-    },
-    {
-      "id": "src\\screens\\Screen8\\sections\\BottomNav2\\BottomNav2.tsx:101:12-to-src\\screens\\Screen9 copy\\Screen9.tsx",
-      "source": "src\\screens\\Screen8\\Screen8.tsx",
-      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
-      "data": {
-        "viaRoute": "/doperaider-u8212-raid",
-        "trigger": {
-          "element": "<Link className=\"RAID-5\" to=\"/doperaider-u8212-raid\">\n              <div className=\"text-wrapper-123\">RAID</div>\n\n              <img className=\"icon-53\" alt=\"Icon\" src=\"/img/icon-29.svg\" />\n            </Link>",
-          "line": 101,
-          "endLine": 105,
-          "column": 12,
-          "endColumn": 19,
-          "sourceFile": "src\\screens\\Screen8\\sections\\BottomNav2\\BottomNav2.tsx"
         }
       }
     },
@@ -1191,9 +1165,9 @@
       }
     },
     {
-      "id": "src\\screens\\DoperaiderRaidWrapper\\sections\\PlayersWrapper\\PlayersWrapper.tsx:46:8-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "id": "src\\screens\\DoperaiderRaidWrapper\\sections\\PlayersWrapper\\PlayersWrapper.tsx:46:8-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
       "source": "src\\screens\\DoperaiderRaidWrapper\\DoperaiderRaidWrapper.tsx",
-      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
       "data": {
         "viaRoute": "/doperaider-u8212-raid",
         "trigger": {
@@ -1207,9 +1181,9 @@
       }
     },
     {
-      "id": "src\\screens\\DoperaiderRaidWrapper\\sections\\BottomNav1\\BottomNav1.tsx:101:12-to-src\\screens\\Screen9 copy\\Screen9.tsx",
+      "id": "src\\screens\\DoperaiderRaidWrapper\\sections\\BottomNav1\\BottomNav1.tsx:101:12-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
       "source": "src\\screens\\DoperaiderRaidWrapper\\DoperaiderRaidWrapper.tsx",
-      "target": "src\\screens\\Screen9 copy\\Screen9.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
       "data": {
         "viaRoute": "/doperaider-u8212-raid",
         "trigger": {
@@ -1219,6 +1193,182 @@
           "column": 12,
           "endColumn": 19,
           "sourceFile": "src\\screens\\DoperaiderRaidWrapper\\sections\\BottomNav1\\BottomNav1.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx:166:10-to-src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx",
+      "source": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx",
+      "target": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid-u8212-active-raid-u8212-win",
+        "trigger": {
+          "element": "<Link\r\n            className=\"WEAPON-4\"\r\n            to=\"/doperaider-u8212-raid-u8212-active-raid-u8212-win\"\r\n          >\r\n            <div className=\"overlap-58\">\r\n              <img\r\n                className=\"rectangle-20\"\r\n                alt=\"Rectangle\"\r\n                src=\"/img/rectangle-7-3.svg\"\r\n              />\r\n\r\n              <img\r\n                className=\"mask-group-5\"\r\n                alt=\"Mask group\"\r\n                src=\"/img/mask-group-4.png\"\r\n              />\r\n\r\n              <img\r\n                className=\"pistol-3\"\r\n                alt=\"Pistol\"\r\n                src=\"/img/pistol-1-3.png\"\r\n              />\r\n            </div>\r\n          </Link>",
+          "line": 166,
+          "endLine": 189,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\screens\\DoperaiderRaidScreen\\DoperaiderRaidScreen.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx:9:8-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "source": "src\\screens\\Screen8\\Screen8.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid",
+        "trigger": {
+          "element": "<Link className=\"frame-50\" to=\"/doperaider-u8212-raid\">\n          <div className=\"overlap-32\">\n            <img\n              className=\"organic-grunge-bold-7\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-48.svg\"\n            />\n\n            <Link\n              className=\"trade-7\"\n              to=\"/doperaider-u8212-raid-u8212-active-raid\"\n            >\n              <div className=\"text-wrapper-105\">RAID $0.25</div>\n            </Link>\n\n            <div className=\"WIN-STATS-5\">\n              <div className=\"overlap-33\">\n                <div className=\"raids-5\">\n                  <div className=\"overlap-group-20\">\n                    <div className=\"text-wrapper-106\">RAIDS</div>\n\n                    <div className=\"text-wrapper-107\">5</div>\n\n                    <div className=\"frame-51\">\n                      <img\n                        className=\"union-12\"\n                        alt=\"Union\"\n                        src=\"/img/union-19.svg\"\n                      />\n                    </div>\n                  </div>\n                </div>\n\n                <div className=\"losses-5\">\n                  <div className=\"overlap-34\">\n                    <div className=\"text-wrapper-108\">LOSSES</div>\n\n                    <div className=\"text-wrapper-109\">2</div>\n\n                    <div className=\"frame-52\">\n                      <img\n                        className=\"union-13\"\n                        alt=\"Union\"\n                        src=\"/img/union-20.svg\"\n                      />\n                    </div>\n                  </div>\n                </div>\n\n                <div className=\"wins-5\">\n                  <div className=\"overlap-35\">\n                    <div className=\"frame-51\">\n                      <img\n                        className=\"union-12\"\n                        alt=\"Union\"\n                        src=\"/img/union-21.svg\"\n                      />\n                    </div>\n\n                    <div className=\"ellipse-21\" />\n\n                    <div className=\"text-wrapper-110\">WINS</div>\n\n                    <div className=\"text-wrapper-111\">3</div>\n                  </div>\n                </div>\n              </div>\n            </div>\n\n            <img\n              className=\"organic-grunge-bold-8\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-49.svg\"\n            />\n\n            <div className=\"frame-53\">\n              <div className=\"frame-54\">\n                <div className=\"profile-pic-15\" />\n\n                <div className=\"frame-55\">\n                  <img\n                    className=\"ellipse-22\"\n                    alt=\"Ellipse\"\n                    src=\"/img/ellipse-15-18.svg\"\n                  />\n\n                  <div className=\"text-wrapper-112\">TONY MONTANA</div>\n                </div>\n              </div>\n\n              <div className=\"stats-7\">\n                <div className=\"respect-7\">\n                  <div className=\"text-wrapper-113\">94</div>\n                </div>\n\n                <div className=\"coke-7\">\n                  <div className=\"text-wrapper-113\">0</div>\n                </div>\n\n                <div className=\"weed-9\">\n                  <div className=\"text-wrapper-113\">49</div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </Link>",
+          "line": 9,
+          "endLine": 114,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx:17:12-to-src\\screens\\DoperaiderRaidWrapper\\DoperaiderRaidWrapper.tsx",
+      "source": "src\\screens\\Screen8\\Screen8.tsx",
+      "target": "src\\screens\\DoperaiderRaidWrapper\\DoperaiderRaidWrapper.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid-u8212-active-raid",
+        "trigger": {
+          "element": "<Link\n              className=\"trade-7\"\n              to=\"/doperaider-u8212-raid-u8212-active-raid\"\n            >\n              <div className=\"text-wrapper-105\">RAID $0.25</div>\n            </Link>",
+          "line": 17,
+          "endLine": 22,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\Screen8\\sections\\RaidListWrapper\\RaidListWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Screen8\\sections\\BottomNav2\\BottomNav2.tsx:101:12-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "source": "src\\screens\\Screen8\\Screen8.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid",
+        "trigger": {
+          "element": "<Link className=\"RAID-5\" to=\"/doperaider-u8212-raid\">\n              <div className=\"text-wrapper-123\">RAID</div>\n\n              <img className=\"icon-53\" alt=\"Icon\" src=\"/img/icon-29.svg\" />\n            </Link>",
+          "line": 101,
+          "endLine": 105,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\screens\\Screen8\\sections\\BottomNav2\\BottomNav2.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Screen3\\sections\\PlayersWrapper\\PlayersWrapper.tsx:9:8-to-src\\screens\\Screen8\\Screen8.tsx",
+      "source": "src\\screens\\Screen3\\Screen3.tsx",
+      "target": "src\\screens\\Screen8\\Screen8.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid-u8212-selected-player",
+        "trigger": {
+          "element": "<Link\n          className=\"overlap-group-wrapper\"\n          to=\"/doperaider-u8212-raid-u8212-selected-player\"\n        >\n          <div className=\"overlap-group-3\">\n            <div className=\"frame-5\">\n              <div className=\"frame-6\">\n                <div className=\"profile-pic-7\" />\n\n                <div className=\"frame-7\">\n                  <img\n                    className=\"ellipse-2\"\n                    alt=\"Ellipse\"\n                    src=\"/img/ellipse-15-12.svg\"\n                  />\n\n                  <div className=\"text-wrapper-9\">TONY MONTANA</div>\n                </div>\n              </div>\n\n              <div className=\"stats-3\">\n                <div className=\"respect-3\">\n                  <div className=\"text-wrapper-10\">94</div>\n                </div>\n\n                <div className=\"coke-3\">\n                  <div className=\"text-wrapper-10\">0</div>\n                </div>\n\n                <div className=\"weed-3\">\n                  <div className=\"text-wrapper-10\">49</div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </Link>",
+          "line": 9,
+          "endLine": 44,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\Screen3\\sections\\PlayersWrapper\\PlayersWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\screens\\Screen3\\sections\\PlayersWrapper\\PlayersWrapper.tsx:46:8-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "source": "src\\screens\\Screen3\\Screen3.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid",
+        "trigger": {
+          "element": "<Link className=\"frame-8\" to=\"/doperaider-u8212-raid\">\n          <div className=\"overlap-5\">\n            <img\n              className=\"organic-grunge-bold\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-28.svg\"\n            />\n\n            <div className=\"trade\">\n              <div className=\"group\">\n                <div className=\"mask-group-wrapper\">\n                  <img\n                    className=\"mask-group\"\n                    alt=\"Mask group\"\n                    src=\"/img/mask-group-7.png\"\n                  />\n                </div>\n              </div>\n\n              <div className=\"PROTECTED\">\n                PROTECTED\n                <br />\n                15mins 23secs\n              </div>\n            </div>\n\n            <div className=\"WIN-STATS\">\n              <div className=\"overlap-6\">\n                <div className=\"raids\">\n                  <div className=\"overlap-group-4\">\n                    <div className=\"union-wrapper\">\n                      <img\n                        className=\"union\"\n                        alt=\"Union\"\n                        src=\"/img/union-4.svg\"\n                      />\n                    </div>\n\n                    <div className=\"text-wrapper-11\">RAIDS</div>\n\n                    <div className=\"text-wrapper-12\">4</div>\n                  </div>\n                </div>\n\n                <div className=\"losses\">\n                  <div className=\"overlap-7\">\n                    <div className=\"frame-9\">\n                      <img\n                        className=\"union-2\"\n                        alt=\"Union\"\n                        src=\"/img/union-5.svg\"\n                      />\n                    </div>\n\n                    <div className=\"text-wrapper-13\">LOSSES</div>\n\n                    <div className=\"text-wrapper-14\">1</div>\n                  </div>\n                </div>\n\n                <div className=\"wins\">\n                  <div className=\"overlap-8\">\n                    <div className=\"union-wrapper\">\n                      <img\n                        className=\"union\"\n                        alt=\"Union\"\n                        src=\"/img/union-6.svg\"\n                      />\n                    </div>\n\n                    <div className=\"ellipse-3\" />\n\n                    <div className=\"text-wrapper-15\">WINS</div>\n\n                    <div className=\"text-wrapper-16\">3</div>\n                  </div>\n                </div>\n              </div>\n            </div>\n\n            <img\n              className=\"organic-grunge-bold-2\"\n              alt=\"Organic grunge bold\"\n              src=\"/img/organic-grunge-bold-shapes-29.svg\"\n            />\n\n            <div className=\"frame-10\">\n              <div className=\"frame-6\">\n                <div className=\"profile-pic-8\" />\n\n                <div className=\"frame-7\">\n                  <img\n                    className=\"ellipse-2\"\n                    alt=\"Ellipse\"\n                    src=\"/img/ellipse-15-13.svg\"\n                  />\n\n                  <div className=\"text-wrapper-9\">SONNY BLACK</div>\n                </div>\n              </div>\n\n              <div className=\"stats-3\">\n                <div className=\"respect-3\">\n                  <div className=\"text-wrapper-10\">60</div>\n                </div>\n\n                <div className=\"coke-3\">\n                  <div className=\"text-wrapper-10\">12</div>\n                </div>\n\n                <div className=\"weed-3\">\n                  <div className=\"text-wrapper-10\">48</div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </Link>",
+          "line": 46,
+          "endLine": 162,
+          "column": 8,
+          "endColumn": 15,
+          "sourceFile": "src\\screens\\Screen3\\sections\\PlayersWrapper\\PlayersWrapper.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:32:10-to-src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderYouScreen\\DoperaiderYouScreen.tsx",
+      "data": {
+        "viaRoute": "/you/inventory",
+        "trigger": {
+          "element": "<Link className=\"div-23\" to=\"/you/inventory\">\r\n            <div className=\"text-wrapper-236\">YOU</div>\r\n\r\n            <img className=\"icon-109\" alt=\"Icon\" src={icon} />\r\n          </Link>",
+          "line": 32,
+          "endLine": 36,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:38:10-to-src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderMarketScreen\\DoperaiderMarketScreen.tsx",
+      "data": {
+        "viaRoute": "/you/market",
+        "trigger": {
+          "element": "<Link className=\"div-23\" to=\"/you/market\">\r\n            <div className=\"text-wrapper-237\">MARKET</div>\r\n\r\n            <div className=\"icon-110\">\r\n              <img className=\"layer-33\" alt=\"Layer\" src=\"/img/layer-1.svg\" />\r\n            </div>\r\n          </Link>",
+          "line": 38,
+          "endLine": 44,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:46:10-to-src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderScreen\\DoperaiderScreen.tsx",
+      "data": {
+        "viaRoute": "/you/production",
+        "trigger": {
+          "element": "<Link className=\"div-23\" to=\"/you/production\">\r\n            <div className=\"text-wrapper-238\">PRODUCE</div>\r\n\r\n            <div className=\"icon-111\">\r\n              <img className=\"layer-34\" alt=\"Layer\" src={layer} />\r\n            </div>\r\n          </Link>",
+          "line": 46,
+          "endLine": 52,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:54:10-to-src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "data": {
+        "viaRoute": "/you/map",
+        "trigger": {
+          "element": "<Link className=\"MAP\" to=\"/you/map\">\r\n            <div className=\"text-wrapper-239\">MAP</div>\r\n\r\n            <img className=\"icon-109\" alt=\"Icon\" src={img} />\r\n          </Link>",
+          "line": 54,
+          "endLine": 58,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\NavTabs\\NavTabs.tsx:60:10-to-src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "source": "src\\screens\\DoperaiderMap\\DoperaiderMap.tsx",
+      "target": "src\\screens\\DoperaiderRaid\\DoperaiderRaid.tsx",
+      "data": {
+        "viaRoute": "/doperaider-u8212-raid",
+        "trigger": {
+          "element": "<Link className=\"RAID-9\" to=\"/doperaider-u8212-raid\">\r\n  <div className=\"text-wrapper-240\">RAID</div>\r\n  <img className=\"icon-112\" alt=\"Icon\" src={icon1} />\r\n</Link>",
+          "line": 60,
+          "endLine": 63,
+          "column": 10,
+          "endColumn": 7,
+          "sourceFile": "src\\components\\NavTabs\\NavTabs.tsx"
         }
       }
     }

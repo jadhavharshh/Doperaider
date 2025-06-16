@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+.RAID-LIST-wrapper {
+  height: 588px;
+  left: 15px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;  /* Changed from 'fixed' to 'absolute' */
+  top: 145px;
+  width: 362px;
+}

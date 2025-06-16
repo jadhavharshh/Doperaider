@@ -1,0 +1,1 @@
+export { NewsInstanceWrapper } from "./NewsInstanceWrapper";

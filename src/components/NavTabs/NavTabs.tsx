@@ -57,11 +57,10 @@ export const NavTabs = ({
             <img className="icon-109" alt="Icon" src={img} />
           </Link>
 
-          <div className="RAID-9">
+          <Link className="RAID-9" to="/doperaider-u8212-raid">
             <div className="text-wrapper-240">RAID</div>
-
             <img className="icon-112" alt="Icon" src={icon1} />
-          </div>
+          </Link>
         </div>
       </div>
     </div>
